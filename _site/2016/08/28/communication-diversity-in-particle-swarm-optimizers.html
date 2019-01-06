@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<title>Communication Diversity in Particle Swarm Optimizers | marcos oliveira</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="marcos oliveira" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://marcosoliveira.info/" />
+<meta property="og:title" content="marcos oliveira" />
+<meta property="og:description" content="Marcos Oliveira's home page" />
+<meta property="og:updated_time" content="2015-01-15T17:05:48-05:00" />
+<meta name="description" content="Marcos Oliveira's home page" />
+<title> marcos oliveira | marcosoliveira.info </title>
+<script language="javascript" type="text/javascript">
+    function showHide(shID) {
+       if (document.getElementById(shID)) {
+          if (document.getElementById(shID+'-show').style.display != 'none') {
+             document.getElementById(shID+'-show').style.display = 'none';
+             document.getElementById(shID).style.display = 'block';
+          }
+          else {
+             document.getElementById(shID+'-show').style.display = 'inline';
+             document.getElementById(shID).style.display = 'none';
+          }
+       }
+    }
+    // this is not shared with google
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    if (window.location.hostname == "marcosoliveira.info") {
+      ga('create', 'UA-91210534-1', 'auto');
+    } else {
+      ga('create', 'UA-91150895-1', 'auto');
+    }
+    ga('send', 'pageview');
+</script>
+<style type="text/css">
+  .more {
+    display: none;
+    margin-left: 1.2rem;
+    width: 40rem;
+    padding: 2px;
+  }
+  article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+  }
+  html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+  }
+  header {
+    overflow: visible;
+    overflow-x: visible;
+    overflow-y: visible;
+    background-color: #000000;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    padding-top: 20px;
+    height: 5rem;
+  }
+
+  section {
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    padding-top: 0.5rem;
+    margin-bottom: 10px;
+  }
+  section#email {
+    background-color: #F0F0F0;
+    font-family: Miller,Georgia,serif;
+    font-size: 14px;
+    color: #00;
+    height: 1.5rem;
+  }
+  div.wrapperh {
+    width: 45rem;
+    margin: 0px auto;
+    position: absolute;
+    left: 230px;
+    font-size: 2.8rem;
+    line-height: 3.75rem;
+  }
+
+  div.wrapper {
+    width: 45rem;
+    margin: 0px auto;
+    position: absolute;
+    left: 230px;
+
+  }
+  div.wwrapper {
+    width: 41rem;
+    margin: 0px auto;
+    position: relative;
+    margin-left: 5rem;
+
+  }
+  div.plicense {
+    /*width: 255px;*/
+    text-align: center;
+    align-content: : center;
+    /*background-color: #ff00ff;*/
+  }
+  div.figures {
+    width: 40rem;
+    margin: 0px auto;
+    position: relative;
+    margin-left: 0rem;
+    position: absolute;
+    top: 8rem;
+    left: 2rem;
+  }
+  font.translation {
+    font-weight:normal;
+    text-decoration: none;
+      }
+  h2 {
+    font-family: Miller,Georgia,serif;font-size: 20px; color: #000000;
+    font-style: none;
+    font-size: 1.2rem;
+    line-height: 1.9rem;
+    font-weight:normal;
+    text-decoration: none;
+  }
+
+  h1 {
+    font-family: Miller,Georgia,serif;font-size: 20px; color: #000000;
+    font-style: bold;
+    font-size: 2.8rem;
+    line-height: 3.75rem;
+  }
+
+
+  p {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.0rem;
+    line-height: 1.4rem;
+    text-align: left;
+  }
+
+  p.desc {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+  }
+  p.license {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 0.5rem;
+    line-height: 0.6rem;
+    text-align: center;
+    width: 10rem;
+    /*width: 100%;*/
+    /*padding-left: 15rem;*/
+    padding-top: 1rem;
+    /*width: 45rem;*/
+  }
+  font.news {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+  }
+  table.news {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    vertical-align: top;
+
+  }
+  table, th, td {
+    /* border: 1px solid black; */
+    /* vertical-align: top; */
+    padding: 5px;
+  }
+  td {
+    /* border-top: 1px solid #ccc; */
+    border-bottom: 1px solid #ccc;
+  }
+  td img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  img.graphs {
+    border:3px solid #021a40;
+    margin: -5px -4px;
+  }
+  div.publications {
+   margin-left: 1.2rem;
+   width: 40rem;
+   padding: 2px;
+   }
+  dl {
+    list-style: none;
+    margin-left: 0rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+  }
+  dd {
+    margin-left: 0.0rem;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+  }
+  dt {
+    list-style: none;
+    margin-left: 0rem;
+    margin-top: 0.3rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+    font-weight: bold;
+  }
+  a.preprint {
+    text-decoration: none;
+  }
+  a:link {
+      color: black;
+  }
+  a:visited {
+      color: black;
+  }
+  a:hover {
+      color: gray;
+  }
+  a:active {
+      color: red;
+  }
+
+  a.paper_link {
+    list-style: none;
+    margin-left: 0rem;
+    margin-top: 0.3rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.8rem;
+    line-height: 1.1rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a.post_title {
+    list-style: none;
+    margin-left: 0rem;
+    margin-top: 0.3rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2rem;
+    line-height: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a.post_date {
+    list-style: none;
+    margin-left: 0rem;
+    margin-top: 0.3rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: gray;
+  }
+
+  a.post_author {
+    list-style: none;
+    margin-left: 0rem;
+    margin-top: 0.3rem;
+    padding-left: 0.0rem;
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+  }
+
+  div.post p {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.7rem;
+    text-align: justify;
+  }
+
+
+  .morea {
+    font-family: "NHG","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 0.9rem;
+    text-align: left;
+    font-style: bold;
+  }
+</style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Since they were introduced, Particle Swarm Optimizers have suffered from early stagnation due to premature convergence. Assessing swarm spatial diversity mig...">
+<meta name="author" content="">
+<meta name="generator" content="Jekyll v3.8.5">
+<link rel="canonical" href="http://localhost:4000/2016/08/28/communication-diversity-in-particle-swarm-optimizers.html">
+<!-- <link rel="stylesheet" href="/assets/css/index.css"> -->
+<!-- <link rel="stylesheet" href="/assets/css/classes.css"> -->
+<!-- <link rel="stylesheet" href="/assets/css/default.css"> -->
+<link rel="alternate" type="application/atom+xml" href="/feed.xml" title="marcos oliveira" />
+
+
+
+
+<header>
+  <div class="wrapperh">
+    <a href="/"><h1 style="font-family: Miller,Georgia,serif;  font-size: 3rem; line-height: 5.75rem;
+color: #ffffff; font-weight: normal;">marcos oliveira</h1></a>
+  </div>
+</header>
+<section id="email">
+  <div class="wrapper">
+    <div class="wwrapper">
+      moliveira<img src="/figures/at_sign.svg" width=10 height=10>tuta.io
+    </div>
+  </div>
+</section>
+<div class="wrapper">
+  <div class="wwrapper">
+
+  <article>
+    <!-- <header> --><a href="/2016/08/28/communication-diversity-in-particle-swarm-optimizers.html" class="post_title">Communication Diversity in Particle Swarm Optimizers</a><br>
+      <a href="/2016/08/28/communication-diversity-in-particle-swarm-optimizers.html" class="post_date"><time datetime="2016-08-28T02:00:00+02:00">August 28, 2016</time></a><br><br>
+    <!-- </header> -->
+    <a href="/2016/08/28/communication-diversity-in-particle-swarm-optimizers.html" class="post_author">Oliveira, M. ; Pinheiro, D. ; Andrade, B. ; Bastos-Filho, C.J.A. ; Menezes, R.</a><br><br>
+
+    <div class="post">
+      <p>Since they were introduced, Particle Swarm Optimizers have suffered from early stagnation due to premature convergence. Assessing swarm spatial diversity might help to mitigate early stagnation but swarm spatial diversity itself emerges from the main property that essentially drives swarm optimizers towards convergence and distinctively distinguishes PSO from other optimization techniques: the social interaction between the particles. The swarm influence graph captures the structure of particle interactions by monitoring the information exchanges during the search process; such graph has been shown to provide a rich overall structure of the swarm information flow. In this paper, we define swarm communication diversity based on the component analysis of the swarm influence graph. We show how communication diversity relates to other measures of swarm spatial diversity as well as how each swarm topology leads to different communication signatures. Moreover, we argue that swarm communication diversity might potentially be a better way to understand early stagnation since it takes into account the (social) interactions between the particles instead of properties associated with individual particles.</p>
+
+
+      <br><a href="/files/2016_OPBM_ANTS_Communication_Diversity.pdf" class="post_date">[Download preprint here]</a>
+
+      
+
+
+      <br><a href="http://dx.doi.org/10.1007/978-3-319-44427-7_7" class="post_date">[Link to publication]</a>
+
+    </div>
+    
+    
+  </article>
+  
+</div>
+</div>
+

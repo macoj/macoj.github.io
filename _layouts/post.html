@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <div class="wwrapper">
+
+  <article>
+    <!-- <header> -->
+      {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+      <a href="{{ page.url | relative_url }}" class="post_title">{{ page.title }}</a><br>
+      <a href="{{ page.url | relative_url }}" class="post_date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time></a><br><br>
+    <!-- </header> -->
+    <a href="{{ page.url | relative_url }}" class="post_author">{{ page.authors }}</a><br><br>
+
+    <div class="post">
+      {{ page.content }}
+
+      {% if page.paper_download != "" %}<br><a href="{{ page.paper_download | relative_url}}" class="post_date">[Download preprint here]</a>{% endif %}
+
+      {% if page.arxiv_link != "" %}<br><a href="{{ page.arxiv_link }}" class="post_date">[arXiv]</a>{% endif %}
+
+
+      {% if page.doi_link != "" %}<br><a href="{{ page.doi_link }}" class="post_date">[Link to publication]</a>{% endif %}
+
+    </div>
+    {% if site.comments.isso %}
+    <hr><div id="isso-thread"></div>
+    {% endif %}
+    {% if site.comments.disqus %}
+    <hr><div id="disqus_thread"></div>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    {% endif %}
+  </article>
+  {% if site.post_footer %}
+  {% if page.previous.url or page.next.url %}
+  <footer>
+    {% if page.next.url %}<a class="gray" href="{{ page.next.url | relative_url }}">« {{ page.next.title }}</a>{% else %}<span></span>{% endif %}
+    {% if page.previous.url %}<a class="gray" href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} »</a>{% else %}<span></span>{% endif %}
+  </footer>
+  {% endif %}
+  {% endif %}
+</div>
+</div>

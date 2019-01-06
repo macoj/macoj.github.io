@@ -1,0 +1,253 @@
+---
+layout: default
+---
+{% if site.show_excerpts and page.name == "index.html" %}
+{% for page in paginator.posts %}
+<article>
+  <!-- <header> -->
+    {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+    <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
+  <!-- </header> -->
+  {{ page.excerpt }}
+  {% unless page.excerpt == page.content %}
+  <footer><a class="ghost" href="{{ page.url | relative_url }}">read more »</a></footer>
+  {% endunless %}
+</article>
+{% endfor %}
+{% if paginator.total_pages > 1 %}
+<footer>
+  <a {% if paginator.previous_page %}class="gray" href="{{ paginator.previous_page_path | relative_url }}"{% else %}class="disabled"{% endif %}>« newer posts</a>
+  <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <a {% if paginator.next_page %}class="gray" href="{{ paginator.next_page_path | relative_url }}"{% else %}class="disabled"{% endif %}>older posts »</a>
+</footer>
+{% endif %}
+
+
+{% else %}
+
+<div class="figures">
+  <img src=figures/graph3.png class="graphs" width=255 hspace=0 title="Crime flows through neighborhoods."><br>
+  <img src=figures/chicago.gif class="graphs" width=255 hspace=0><br>
+  <img src=figures/heat_map.png class="graphs" width=255 hspace=0 title="Concentration of crime is scale-invariant."><br>
+  <img src=figures/topology2.gif class="graphs" width=255 hspace=0 title="Dynamic infrastructures of communication help swarms to solve problems."><br>
+
+  <img src=figures/agents.png class="graphs" width=255 hspace=0 title="Agents."><br>
+  <img src=figures/heat1.png class="graphs" width=255 hspace=0 title="Different types of crime have different dynamics of concentration in cities."><br>
+
+  <img src=figures/graph2.png class="graphs" width=255 hspace=0 title="You can construct information from the destruction of graphs!"><br>
+  <img src=figures/heat3.png class="graphs" width=255 hspace=0 title="Heatmaps are nice (if you are not a dog) to see the diversity in the swarm communication."><br>
+
+  <img src=figures/politics.gif class="graphs" width=255 hspace=0 title="Politicians in the house."><br>
+
+  <br><br>
+
+  <a href="https://www.gesis.org/en/institute/departments/computational-social-science/"><img src=figures/gesis_logo.png border=0 width=170 hspace=1></a><br>
+
+  <br>
+
+
+  <a href="http://biocomplexlab.org/"><img src=figures/biocomplex.png border=0 width=250 hspace=1></a><br>
+
+  <br><br>
+  <dl>
+    <dd><h2>Collaborators (current/past)</h2></dd>
+    <dd><a href="https://www.researchgate.net/profile/Erick_Barboza">Barbosa, E'rick</a></dd>
+    <dd><a href="http://my.fit.edu/~hbarbosafilh2011/">Barbosa, Hugo</a></dd>
+    <dd><a href="https://sites.google.com/site/carmelofilho/">Bastos-Filho, Carmelo</a></dd>
+    <!-- <dd><a href="https://sites.google.com/site/carmelofilho/">Cordeiro, Paulo</a></dd> -->
+    <dd><a href="http://dav-ell.com/">Elliott, David</a></dd>
+    <dd><a href="http://my.fit.edu/~cruzj2012/ ">Faustino, Josemar</a></dd>
+    <dd><a href="http://www.fbln.pro.br/ ">Lima-Neto, Fernando</a></dd>
+    <dd><a href="https://www.researchgate.net/profile/Marcelo_Lacerda">Lacerda, Marcelo</a></dd>
+    <dd><a href="https://www.researchgate.net/profile/Anthony_Lins">Lins, Anthony</a></dd>
+    <dd><a href="http://cs.fit.edu/~rmenezes/ ">Menezes, Ronaldo</a></dd>
+    <!-- <dd><a href="http://cs.fit.edu/~rmenezes/ ">Menezes, Henilton</a></dd> -->
+    <!-- <dd><a href="http://my.fit.edu/~dsilva2014/">Nascimento, Débora</a></dd> -->
+    <dd><a href="http://my.fit.edu/~dpacheco2013/ ">Pacheco, Diogo</a></dd>
+    <dd><a href="http://my.fit.edu/~dsilva2014/">Pinheiro, Diego</a></dd>
+    <dd><a href="http://www.de.ufpe.br/~alex/">Ramos, Alex</a></dd>
+    <dd><a href="https://eraldoribeiro.github.io/">Ribeiro, Eraldo</a></dd>
+    <!-- <dd><a href="http://my.fit.edu/~dsilva2014/">Santana, Robson</a></dd> -->
+    <dd><a href="https://www.researchgate.net/profile/Dennis_Da_Cunha_Silva">Silva, Dennis</a></dd>
+    <dd><a href="http://my.fit.edu/~mtomasini/">Tomasini, Marcello</a></dd>
+    <dd><a href="https://www.linkedin.com/in/sarahcwhite">White, Sarah</a></dd>
+    <dd><a href="http://tobin.yehle.io/">Yehle, Tobin</a></dd>
+
+  </dl>
+
+  <br><br>
+  <!-- <div class="plicense">
+    <center>
+  <p class="license">
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="figures/license.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+  </center>
+  </p>
+  </div> -->
+</div>
+
+<div class="wrapper">
+  <div class="wwrapper">
+  <section>
+    <article>
+       <p class="desc">Hi, I am a postdoctoral researcher at the <a href="https://www.gesis.org/en/institute/departments/computational-social-science/">Computational Social Science</a> department in <a href="https://www.gesis.org/en/en/home/">GESIS - Leibniz Institute for the Social Sciences</a>.
+         <!-- Here you can get preprints of my papers without fighting against paywalls -->
+         I finished my Ph.D. at the <a href="http://soc.fit.edu/">School of Computing</a> in <a href="http://www.fit.edu/">Florida Tech</a> and completed my Master's (<a href="files/master_thesis.pdf">thesis</a>) and Bachelor's (<a href="files/tcc.pdf">final project</a>) degrees in Computer Engineering at <a href="http://www.poli.br/">Escola Politécnica de Pernambuco</a> in the <a href="http://www.upe.br/">University of Pernambuco</a>.
+         <!-- I am a member of the <a href="http://biocomplexlab.org/">BioComplex</a> laboratory and <a href="http://www.cirg.ecomp.poli.br/">CIRG</a>.  -->
+         Here you can get preprints of my papers without fighting against paywalls, and my <a href="files/cv_marcos_oliveira.pdf">CV</a>.
+       </p>
+       <br><br>
+
+             <table class="news" border=1 CELLPADDING=0 CELLSPACING=0>
+               <tr>
+                 <td>
+                   <font class="news" style="font-weight: bold;">NEWS</font>
+                 </td>
+                 <td>
+                 </td>
+                 <td>
+                 </td>
+               </tr>
+               <tr>
+                 <td>
+                   09/11/18
+                 </td>
+                 <td>
+                   Check out our new preprint on <a href="files/2018_OPMBM_swarm_network.pdf">computational swarm intelligence and network science</a>.
+                 </td>
+                 <td>
+                   <a href="https://arxiv.org/abs/1811.03539/"><img src="figures/exposed.png" width=120 border=0></a>
+
+                 </td>
+               </tr>
+               <tr>
+                 <td>
+                   27/09/18
+                 </td>
+                 <td>
+                   Read our post on the SpringerBlog about <a href="http://blogs.springeropen.com/springeropen/2018/09/27/listening-changes-urban-rhythm/">listening to the changes in the urban rhythms</a>.
+                 </td>
+                 <td>
+                      <a href="http://blogs.springeropen.com/springeropen/2018/09/27/listening-changes-urban-rhythm/"><img src="figures/crime_waves.gif" width=120 border=0></a>
+                 </td>
+               </tr>
+               <tr>
+                 <td>
+                   26/09/18
+                 </td>
+                 <td>
+                   Our latest work on <a href="http://dx.doi.org/10.1140/epjds/s13688-018-0158-4">temporal regularities in crime</a> is online in EPJ Data Science.<br>
+                 </td>
+                 <td>
+                   <a href="http://dx.doi.org/10.1140/epjds/s13688-018-0158-4"><img src="figures/waves.png" width=110 border=0></a>
+                 </td>
+               </tr>
+               <tr>
+                 <td>
+                   12/06/18
+                 </td>
+                 <td valign="center">
+                   We organized the third <a href="http://netcrime.weebly.com">NetCrime</a> (Symposium on the Structure and Mobility of Crime) at <a href="http://netsci2018.com/">NetSci 2018</a>.
+                 </td>
+                 <td valign="center" align="left">
+                  <a href="http://netcrime.weebly.com"><img src="figures/crimenetlogo.png" width=140 border=0></a>
+                 </td>
+               </tr>
+             </table>
+    </article>
+  </section>
+<article class="archive">
+  {{ content }}
+
+  <section>
+    <hgroup>
+      <h1>Research</h1>
+    </hgroup>
+    <article>
+      <div class="publications">
+        <dl>
+          {% for post in site.posts %}
+          {%- assign date_format = site.date_format | default: "%Y" -%}
+          {% if post.type == "paper" %}
+          <dt><a href="{{ post.url | relative_url }}" class="preprint">{{ post.title }}</a>
+            {% if post.doi_link != "" or post.arxiv_link != "" or post.paper_download != "" %}[{% endif %}{% if post.doi_link != "" %}<a href="{{ post.doi_link }}" class="paper_link">doi</a>{% if post.arxiv_link != "" or post.paper_download != "" %}, {% endif %}{% endif %}{% if post.arxiv_link != "" %}<a href="{{ post.arxiv_link }}" class="paper_link">arXiv</a>{% if post.paper_download != "" %}, {% endif %}{% endif %}{% if post.paper_download != "" %}<a href="{{ post.paper_download }}" class="paper_link">pdf</a>{% endif %}{% if post.doi_link != "" or post.arxiv_link != "" or post.paper_download != "" %}]{% endif %}
+
+
+          </dt>
+          <dd>{{ post.authors }}</dd>
+          <dd>{{ post.where }}</dd>
+          <!-- <dd>{{ post.date | date: date_format }}. arXiv.</dd> -->
+
+<!--
+            <div>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+              <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            </div> -->
+          {% endif %}
+          {% endfor %}
+          <br>
+          <dt><h2>PhD dissertation</h2><a href="" class="preprint">The growth, structure, and dynamics of crime in cities</a>. <font style="font-weight:normal">Florida Institute of Technology, 2017. Melbourne, USA.</font></dt><br>
+          <dt><h2>Master's thesis</h2><a href="files/master_thesis.pdf" class="preprint">Utilizando Ciência das Redes para Avaliar e Modificar o Fluxo de Informação de um Otimizador por Enxames de Partículas</a>, <font style="font-weight:normal">"Assessing and Modifying Information Flows in Particle Swarm Optimizers." Oliveira, M. University of Pernambuco, 2013. Recife, Brazil.</font></dt><br>
+          <!-- <dd>Oliveira, M. University of Pernambuco, 2013. Recife, Brazil. </dd> -->
+          <dt><h2>Undergrad final project</h2><a href="files/tcc.pdf" class="preprint">Redes Neurais de Hopfield para Roteamento de Redes de Comunicação em FPGA</a>, <font style="font-weight:normal">"Hopfield Neural Networks for Network Routing using FPGA." Oliveira, M. University of Pernambuco, 2011. Recife, Brazil.</font></dt>
+          <!-- <br> -->
+          <!-- <dd><a class="morea" href="#" id="publications-hide" onclick="showHide('publications');return false;">Less.</a></dd> -->
+        </dl>
+      </div>
+    </article>
+  </section>
+</article>
+
+<hgroup>
+  <h1>Software</h1>
+</hgroup>
+<article>
+  <p class="desc">Here you can download code related to some research works:</p>
+  <div class="publications">
+    <dl>
+      <dt><a href=https://github.com/macoj/network_swarm/>network_swarm</a></dt>
+      <dd>A network-based approach to analyze particle swarm optimizers.</dd>
+      <dt><a href=https://github.com/macoj/pso_gpu/>pso_gpu</a></dt>
+      <dd>Running Particle Swarm Optimization on graphic processing units</dd>
+      <dt><a href=https://github.com/macoj/pso_dynamic_topology/>pso_dynamic_topology</a></dt>
+      <dd>A swarm with dynamic topology.</dd>
+      <dt><a href=https://github.com/macoj/hnn_fpga/>hnn_fpga</a></dt>
+      <dd>This is a VHDL model for Hopfield Neural Networks (HNN) for Routing in Communication Networks
+      <dt><a href=https://github.com/macoj/spatial_reference/>spatial_reference</a></dt>
+      <dd>A helper to find out the correct spatial reference (EPSG) of a bunch of points using spatialreference.org.</dd>
+      <dt><a href=https://github.com/macoj/partitions2graph/>partitions2graph</a></dt>
+      <dd>From partitions of a graph to a whole graph</dd>
+      <dt><a href=https://github.com/macoj/graphml2metis/>graphml2metis</a></dt>
+      <dd>This converts a file from graphml to METIS format.</dd>
+      <dt><a href=https://github.com/macoj/simulator/>simulator</a></dt>
+      <dd>A simple tool to have experiments running in parallel.</dd>
+    </dl>
+   </div>
+</article>
+</section>
+<section>
+  <hgroup>
+    <h1>Links</h1>
+  </hgroup>
+  <article>
+    <p class="desc">I have been curating a list of <a href="https://github.com/macoj/phd">resources on why/how to do a Ph.D.</a>, feel free to share it or create a pull request. Some other connections to this page: <a href="https://github.com/macoj/">GitHub</a>, <a href="https://gist.github.com/macoj">Gist</a>, <a href="http://www.researchgate.net/profile/Marcos_Oliveira41">ResearchGate</a>, <a href="https://scholar.google.com/citations?user=adQX88UAAAAJ">Google Scholar</a>, <a href="http://lattes.cnpq.br/1813724965562177">Lattes</a>, and <a href="http://www.linkedin.com/in/omarcos">LinkedIn</a>. Also, I am a proud <a href="http://www.last.fm/user/syncmaxtor">last.fm</a> user, I've been <a href="https://cbsi.secure.force.com/lastfm/articles/LastFM/What-is-scrobbling?categories=LastFM%3ALastFM_Eng&template=template_lastfm" title="'Scrobbling a song means that when you listen to it, the name of the song is sent to Last.fm and added to your music profile.' from last.fm.">scrobbling</a> for more than 10 years! These are the albums I listened the most for the last three months: <br>
+    <center><img src="figures/lastfm_s.jpg" style="border:4px solid black; width:40em" title="This is generated every week."></center>
+    <!-- http://lastfm.paddez.com/ -->
+    </p>
+  </article>
+</section>
+<section>
+  <article>
+    <div class="plicense">
+      <center>
+        <p class="license">
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="figures/license.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+          <br><br>
+        </p>
+      </center>
+  </div>
+  </article>
+</section>
+</div>
+</div>
+{% endif %}
