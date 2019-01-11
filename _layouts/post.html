@@ -14,7 +14,9 @@ layout: default
     <a href="{{ page.url | relative_url }}" class="post_author">{{ page.authors }}</a><br><br>
 
     <div class="post">
-      {{ page.content }}
+      {{ page.content }}<br>
+
+      <a href="{{ page.url | relative_url }}" class="post_author">{{ page.where }}</a><br>
 
       {% if page.paper_download != "" %}<br><a href="{{ page.paper_download | relative_url}}" class="post_date">[Download preprint here]</a>{% endif %}
 
@@ -22,6 +24,7 @@ layout: default
 
 
       {% if page.doi_link != "" %}<br><a href="{{ page.doi_link }}" class="post_date">[Link to publication]</a>{% endif %}
+      <br><br><br><br>
 
     </div>
     {% if site.comments.isso %}
