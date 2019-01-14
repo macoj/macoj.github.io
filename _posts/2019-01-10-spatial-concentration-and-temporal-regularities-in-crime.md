@@ -5,7 +5,7 @@ date: 2019-01-10 12:04:22 +0100
 title: "Spatial concentration and temporal regularities in crime"
 authors: Oliveira, M.; Menezes, R.
 where: "To appear in \"Understanding Crime through Science\" (Springer Computational Social Sciences series). 2019."
-arxiv_link: ""
+arxiv_link: "http://arxiv.org/abs/1901.03589"
 doi_link: ""
 paper_download: "files/2019_OM_crime_regularities.pdf"
 ---
