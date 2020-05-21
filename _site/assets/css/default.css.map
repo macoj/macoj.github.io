@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "default.css",
+	"sources": [
+		"default.sass",
+		"_sass/anchor.sass"
+	],
+	"sourcesContent": [
+		"@function reduce ($percent) {\n  @return rgba(mix(#282828, #fff), $percent / 100); }\n\n$link-color: #68f;\n\n@import \"anchor\";\n\nbody > header, article, body > footer {\n  padding: 1.5em calc(27.5% - 5rem); }\n\narticle, body > footer {\n  border-top: 1px solid reduce(8); }\n\n\n\narticle {\n  background: reduce(2); }\n\nbody > footer {\n  background: reduce(5);\n  color: reduce(100); }\n\n\n",
+		"a.ghost, a.gray, a.disabled {\n  border-radius: 2px;\n  padding: .4em .8em; }\n\na.ghost {\n  background: $link-color;\n  box-shadow: 0 0 0 2px $link-color inset;\n  color: white;\n  transition: .1s; }\n\na.ghost:hover {\n  background: transparent;\n  color: $link-color; }\n\na.gray, a.disabled {\n  background: reduce(8);\n  transition: background, .2s; }\n\na.gray:hover, a.disabled:hover {\n  color: inherit; }\n\na.gray:hover {\n  background: reduce(20); }\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,CAAC,AAAA,MAAM,EAAE,CAAC,AAAA,KAAK,EAAE,CAAC,AAAA,SAAS,CAAC,EAC1B,aAAa,EAAE,GAAG,EAClB,OAAO,EAAE,SAAS,GAAG;;AAEvB,AAAA,CAAC,AAAA,MAAM,CAAC,EACN,UAAU,EDFC,IAAI,ECGf,UAAU,EAAE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,GAAG,CDHV,IAAI,CCGmB,KAAK,EACvC,KAAK,EAAE,KAAK,EACZ,UAAU,EAAE,GAAG,GAAG;;AAEpB,AAAA,CAAC,AAAA,MAAM,CAAC,KAAK,CAAC,EACZ,UAAU,EAAE,WAAW,EACvB,KAAK,EDTM,IAAI,GCSM;;AAEvB,AAAA,CAAC,AAAA,KAAK,EAAE,CAAC,AAAA,SAAS,CAAC,EACjB,UAAU,EDdG,yBAAkB,ECe/B,UAAU,EAAE,eAAe,GAAG;;AAEhC,AAAA,CAAC,AAAA,KAAK,CAAC,KAAK,EAAE,CAAC,AAAA,SAAS,CAAC,KAAK,CAAC,EAC7B,KAAK,EAAE,OAAO,GAAG;;AAEnB,AAAA,CAAC,AAAA,KAAK,CAAC,KAAK,CAAC,EACX,UAAU,EDrBG,wBAAkB,GCqBN;;ADf3B,AAAA,IAAI,GAAG,MAAM,EAAE,OAAO,EAAE,IAAI,GAAG,MAAM,CAAC,EACpC,OAAO,EAAE,KAAK,CAAC,kBAAkB,GAAG;;AAEtC,AAAA,OAAO,EAAE,IAAI,GAAG,MAAM,CAAC,EACrB,UAAU,EAAE,GAAG,CAAC,KAAK,CAVR,yBAAkB,GAUG;;AAIpC,AAAA,OAAO,CAAC,EACN,UAAU,EAfG,yBAAkB,GAeP;;AAE1B,AAAA,IAAI,GAAG,MAAM,CAAC,EACZ,UAAU,EAlBG,yBAAkB,EAmB/B,KAAK,EAnBQ,OAAkB,GAmBV"
+}
