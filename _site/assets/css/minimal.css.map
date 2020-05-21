@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "minimal.css",
+	"sources": [
+		"minimal.sass"
+	],
+	"sourcesContent": [
+		"body {\n  margin: 0 calc(27.5% - 5rem); }\n\nbody > header, article, body > footer {\n  padding: 1.5em 0; }\n\narticle, body > footer {\n  border-top: 1px solid; }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC,EACH,MAAM,EAAE,CAAC,CAAC,kBAAkB,GAAG;;AAEjC,AAAA,IAAI,GAAG,MAAM,EAAE,OAAO,EAAE,IAAI,GAAG,MAAM,CAAC,EACpC,OAAO,EAAE,OAAO,GAAG;;AAErB,AAAA,OAAO,EAAE,IAAI,GAAG,MAAM,CAAC,EACrB,UAAU,EAAE,SAAS,GAAG"
+}

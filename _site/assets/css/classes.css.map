@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "classes.css",
+	"sources": [
+		"classes.sass"
+	],
+	"sourcesContent": [
+		".icon {\n  margin: 0 1em; }\n\n.icon svg {\n  height: 1.1em;\n  width: 1.1em;\n  fill: currentColor;\n  vertical-align: text-bottom; }\n\n.archive div {\n  display: flex;\n  flex-wrap: wrap;\n  align-items: baseline; }\n\n.archive h3 {\n  margin: 0.2em 0; }\n\n.archive h3, .archive a {\n  font-weight: inherit; }\n\n.archive time {\n  min-width: 10em; }\n\n.large img, .large.embed {\n  max-width: 140%;\n  margin-right: -20%;\n  margin-left: -20%; }\n\n.embed {\n  position: relative;\n  padding-bottom: 56.25%;\n  margin: 1.5em 0; }\n\n.embed.large {\n  padding-bottom: 78.75%; }\n\n.embed iframe {\n  position: absolute;\n  width: 100%;\n  height: 100%; }\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,KAAK,CAAC,EACJ,MAAM,EAAE,KAAK,GAAG;;AAElB,AAAA,KAAK,CAAC,GAAG,CAAC,EACR,MAAM,EAAE,KAAK,EACb,KAAK,EAAE,KAAK,EACZ,IAAI,EAAE,YAAY,EAClB,cAAc,EAAE,WAAW,GAAG;;AAEhC,AAAA,QAAQ,CAAC,GAAG,CAAC,EACX,OAAO,EAAE,IAAI,EACb,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,QAAQ,GAAG;;AAE1B,AAAA,QAAQ,CAAC,EAAE,CAAC,EACV,MAAM,EAAE,OAAO,GAAG;;AAEpB,AAAA,QAAQ,CAAC,EAAE,EAAE,QAAQ,CAAC,CAAC,CAAC,EACtB,WAAW,EAAE,OAAO,GAAG;;AAEzB,AAAA,QAAQ,CAAC,IAAI,CAAC,EACZ,SAAS,EAAE,IAAI,GAAG;;AAEpB,AAAA,MAAM,CAAC,GAAG,EAAE,MAAM,AAAA,MAAM,CAAC,EACvB,SAAS,EAAE,IAAI,EACf,YAAY,EAAE,IAAI,EAClB,WAAW,EAAE,IAAI,GAAG;;AAEtB,AAAA,MAAM,CAAC,EACL,QAAQ,EAAE,QAAQ,EAClB,cAAc,EAAE,MAAM,EACtB,MAAM,EAAE,OAAO,GAAG;;AAEpB,AAAA,MAAM,AAAA,MAAM,CAAC,EACX,cAAc,EAAE,MAAM,GAAG;;AAE3B,AAAA,MAAM,CAAC,MAAM,CAAC,EACZ,QAAQ,EAAE,QAAQ,EAClB,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,GAAG"
+}
