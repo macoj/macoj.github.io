@@ -3,9 +3,9 @@ layout: post
 title: Using Network Science to Define a Dynamic Communication Topology for Particle
   Swarm Optimizers
 date: 2012-03-07 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Bastos-Filho, C.J.A. ; Menezes, R.
-where: 3rd Workshop on Complex Networks (COMPLENET), 2012. Melbourne, USA
+type: conference
+authors: Marcos Oliveira, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: 3rd Workshop on Complex Networks (Complenet), Melbourne, USA. 2012.
 doi_link: 'http://dx.doi.org/10.1007/978-3-642-30287-9_5'
 arxiv_link: ''
 paper_download: 'files/2012-Oliveira_Bastos-Filho_Menezes.pdf'

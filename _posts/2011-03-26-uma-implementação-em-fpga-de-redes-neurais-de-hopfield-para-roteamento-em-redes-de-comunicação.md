@@ -3,9 +3,9 @@ layout: post
 title: Uma Implementação em FPGA de Redes Neurais de Hopfield para Roteamento em Redes
   de Comunicação
 date: 2011-03-26 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Bastos-Filho, C.J.A.
-where: Anais do X Congresso Brasileiro de Inteligência Computacional, 2011. Fortaleza, Brazil
+type: conference
+authors: Marcos Oliveira and Carmelo Bastos-Filho
+where: Anais do X Congresso Brasileiro de Inteligência Computacional, Fortaleza, Brazil. 2011
 doi_link: 'http://dx.doi.org/10.21528/CBIC2011-14.3'
 arxiv_link: ''
 paper_download: 'files/2011-Oliveira_Bastos-Filho.pdf'

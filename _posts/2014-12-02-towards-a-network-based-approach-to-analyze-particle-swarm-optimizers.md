@@ -2,9 +2,9 @@
 layout: post
 title: Towards a Network-based Approach to Analyze Particle Swarm Optimizers
 date: 2014-12-02 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Bastos-Filho, C.J.A. ; Menezes, R.
-where: 2014 IEEE Symposium on Swarm Intelligence, 2014. Orlando, USA.
+type: conference
+authors: Marcos Oliveira, Carmelo Bastos-Filho, and Ronaldo Menezes.
+where: 2014 IEEE Symposium on Swarm Intelligence, Orlando, USA. 2014.
 doi_link: 'http://dx.doi.org/10.1109/SIS.2014.7011791'
 arxiv_link: ''
 paper_download: 'files/2014_OBM_SSCI14_NetworkSwarmAnalysis.pdf'

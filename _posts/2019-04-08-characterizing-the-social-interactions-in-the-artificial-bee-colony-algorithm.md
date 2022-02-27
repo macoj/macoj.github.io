@@ -2,10 +2,10 @@
 layout: post
 title: Characterizing the Social Interactions in the Artificial Bee Colony Algorithm
 date: 2019-04-08 00:00 +0000
-type: paper
-authors: Taw, L., Gurrapadi, N., Macedo, M., Oliveira M., Pinheiro, D., Bastos-Filho, M., Menezes, R.
-where: "Accepted in: 2019 IEEE Congress on Evolutionary Computation (IEEE CEC). 2019."
-doi_link: ''
+type: conference
+authors: Lydia Taw, Nishant Gurrapadi, Mariana Macedo, Marcos Oliveira, Diego Pinheiro, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: "IEEE Congress on Evolutionary Computation (IEEE CEC). 2019."
+doi_link: 'https://doi.org/10.1109/CEC.2019.8789898'
 arxiv_link: 'http://arxiv.org/abs/1904.04203'
 paper_download: 'files/2019_TGMOPBM_artificial_bee_colony_network.pdf'
 ---

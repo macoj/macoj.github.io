@@ -3,9 +3,9 @@ layout: post
 title: Impact of the Random Number generator quality on particle swarm optimization
   algorithm running on graphic processor units
 date: 2010-08-23 00:00 +0000
-type: paper
-authors: Bastos-Filho, C.J.A. ; Oliveira, M. ; Nascimento, D. ; Ramos, A.
-where: 10th International Conference on Hybrid Intelligent Systems, 2010, Atlanta, USA.
+type: conference
+authors: Carmelo Bastos-Filho, Marcos Oliveira, Débora Nascimento, and Alex Ramos
+where: 10th International Conference on Hybrid Intelligent Systems, Atlanta, USA. 2010.
 doi_link: 'http://dx.doi.org/10.1109/HIS.2010.5601073'
 arxiv_link: ''
 paper_download: 'files/2010-Bastos-Filho_Oliveira_Nascimento_Ramos.pdf'

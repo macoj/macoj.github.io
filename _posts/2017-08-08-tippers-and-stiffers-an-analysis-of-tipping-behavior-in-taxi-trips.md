@@ -2,9 +2,9 @@
 layout: post
 title: 'Tippers and stiffers: An analysis of tipping behavior in taxi trips'
 date: 2017-08-08 00:00 +0000
-type: paper
-authors: Elliott, D.; Tomasini, M.; Oliveira, M.; Menezes, R.
-where: IEEE Ubiquitous Intelligence and Computing, 2017, San Francisco, California, USA.
+type: conference
+authors: David Elliott, Marcello Tomasini, Marcos Oliveira, and Ronaldo Menezes
+where: IEEE Ubiquitous Intelligence and Computing, San Francisco, California, USA. 2017.
 doi_link: 'http://dx.doi.org/10.1109/UIC-ATC.2017.8397523'
 arxiv_link: ''
 paper_download: 'files/2017_OBM_tippers_and_stiffers.pdf'

@@ -2,9 +2,9 @@
 layout: post
 title: Using Network Science to Assess Particle Swarm Optimizers
 date: 2015-01-14 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Bastos-Filho, C.J.A. ; Menezes, R.
-where:  "Social Network Analysis and Mining (2015) 5: 3"
+type: journal
+authors: Marcos Oliveira, Carmelo Bastos-Filho, and Ronaldo Menezes
+where:  "Social Network Analysis and Mining 5:3 (2015)"
 doi_link: 'http://dx.doi.org/10.1007/s13278-015-0245-5'
 arxiv_link: ''
 paper_download: 'files/2015_OBM_SNAM_SWARM_ANALYSIS.pdf'

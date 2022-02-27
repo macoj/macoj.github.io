@@ -2,9 +2,9 @@
 layout: post
 title: Communication Diversity in Particle Swarm Optimizers
 date: 2016-08-28 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Pinheiro, D. ; Andrade, B. ; Bastos-Filho, C.J.A. ; Menezes, R.
-where: ANTS 2016, Tenth International Conference on Swarm Intelligence, 2016. Brussels, Belgium.
+type: conference
+authors: Marcos Oliveira, Diego Pinheiro, Bruno Andrade, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: ANTS 2016, Tenth International Conference on Swarm Intelligence, Brussels, Belgium. 2016.
 doi_link: 'http://dx.doi.org/10.1007/978-3-319-44427-7_7'
 arxiv_link: ''
 paper_download: 'files/2016_OPBM_ANTS_Communication_Diversity.pdf'

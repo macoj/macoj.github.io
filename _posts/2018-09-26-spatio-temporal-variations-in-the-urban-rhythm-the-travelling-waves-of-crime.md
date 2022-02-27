@@ -2,9 +2,9 @@
 layout: post
 title: 'Spatio-temporal variations in the urban rhythm: the travelling waves of crime'
 date: 2018-09-26 00:00 +0000
-type: paper
-authors: Oliveira, M.; Ribeiro, E.; Bastos-Filho, C; Menezes, R.
-where: EPJ Data Science 7:29. 2018.
+type: journal
+authors: Marcos Oliveira, Eraldo Ribeiro, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: EPJ Data Science 7:29 (2018)
 doi_link: http://dx.doi.org/10.1140/epjds/s13688-018-0158-4
 arxiv_link: https://arxiv.org/abs/1807.02989
 paper_download: files/2018_ORBM_travelling_waves_of_crime.pdf

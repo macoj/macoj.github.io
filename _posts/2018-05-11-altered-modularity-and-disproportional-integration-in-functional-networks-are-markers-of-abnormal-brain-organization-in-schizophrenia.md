@@ -2,7 +2,7 @@
 layout: post
 title: Altered Modularity and Disproportional Integration in Functional Networks are Markers of Abnormal Brain Organization in Schizophrenia
 date: 2018-05-11 00:00 +0000
-type: paper
+type: other
 authors: Cinelli, M.; Echegoyen, I; Oliveira, M.; Orellana, S.; Gili, T.
 where: arXiv. 2018.
 doi_link: ''

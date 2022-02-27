@@ -3,10 +3,10 @@ layout: post
 title: 'Web Routineness and Limits of Predictability: Investigating Demographic and
   Behavioral Differences Using Web Tracking Data'
 date: 2020-12-30 00:00 +0000
-type: paper
-authors: Kulshrestha, J., Oliveira, M., Karacalik, O., Bonnay, D., Wagner, C.
-where: "Accepted in: The International AAAI Conference on Web and Social Media (ICWSM) 2021."
-doi_link: ''
+type: conference
+authors: Juhi Kulshrestha, Marcos Oliveira, Orkut Karacalik, Denis Bonnay, and Claudia Wagner
+where: "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM), 2021."
+doi_link: 'https://ojs.aaai.org/index.php/ICWSM/article/view/18064'
 arxiv_link: 'http://arxiv.org/abs/2012.15112'
 paper_download: 'files/2020_limits_of_predictability_of_mobility_on_the_web_ICWSM2021.pdf'
 ---

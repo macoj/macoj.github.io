@@ -2,9 +2,9 @@
 layout: post
 title: Political Social Networks Reveal Strong Party Loyalty in Brazil and Weak Regionalism
 date: 2014-05-27 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Bastos-Filho, C.J.A. ; Menezes, R.
-where: Sixth ASE International Conference on Social Computing, 2014. Stanford, USA.
+type: conference
+authors: Marcos Oliveira, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: Sixth ASE International Conference on Social Computing, Stanford, USA. 2014.
 doi_link: ''
 arxiv_link: ''
 paper_download: 'files/2014-Oliveira_Bastos-Filho_Menezes.pdf'

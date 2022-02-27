@@ -3,9 +3,9 @@ layout: post
 title: Optimizing a Routing Algorithm Based on Hopfield Neural Networks for Graphic
   Processing Units
 date: 2011-04-11 00:00 +0000
-type: paper
-authors: Bastos-Filho, C.J.A. ; Oliveira, M. ; Silva, D. ; Santana, R.
-where: IEEE Symposium on Foundations of Computational Intelligence (FOCI), 2011, Paris, France.
+type: conference
+authors: Carmelo Bastos-Filho, Marcos Oliveira, Denis Silva, Róbson Santana
+where: IEEE Symposium on Foundations of Computational Intelligence (FOCI), Paris, France. 2011.
 doi_link: 'http://dx.doi.org/10.1109/FOCI.2011.5949470'
 arxiv_link: ''
 paper_download: 'files/2011-Bastos-Filho_Oliveira_Silva_Santana.pdf'

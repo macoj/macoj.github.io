@@ -3,10 +3,10 @@ layout: post
 title: More crime in cities? On the scaling laws of crime and the inadequacy of per
   capita rankings—a cross-country study
 date: 2020-12-30 00:00 +0000
-type: paper
-authors: Oliveira M.
-where: "arXiv. 2020."
-doi_link: ''
+type: journal
+authors: Marcos Oliveira
+where: "Crime Science 10, 27 (2021). "
+doi_link: 'https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-021-00155-8'
 arxiv_link: 'http://arxiv.org/abs/2012.15368'
 paper_download: 'files/2020_MO_more_crime_in_cities.pdf'
 ---

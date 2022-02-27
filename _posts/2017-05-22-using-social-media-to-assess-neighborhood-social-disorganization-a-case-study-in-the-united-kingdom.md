@@ -3,9 +3,9 @@ layout: post
 title: 'Using Social Media to Assess Neighborhood Social Disorganization: a Case Study
   in the United Kingdom'
 date: 2017-05-22 00:00 +0000
-type: paper
-authors: Pacheco, D.; Oliveira, M.; Menezes, R.
-where: AI4BigData at the 30th International FLAIRS Conference, 2017, Marco Island, Florida, USA.
+type: conference
+authors: Diogo Pacheco, Marcos Oliveira, and Ronaldo Menezes
+where: AI4BigData at the 30th International FLAIRS Conference, Marco Island, Florida, USA. 2017.
 doi_link: 'https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS17/paper/view/15497'
 arxiv_link: ''
 paper_download: 'files/2017_Pacheco_Oliveira_Menezes_twitter.pdf'

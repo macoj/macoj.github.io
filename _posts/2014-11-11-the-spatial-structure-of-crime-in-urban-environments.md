@@ -2,9 +2,9 @@
 layout: post
 title: The Spatial Structure of Crime in Urban Environments
 date: 2014-11-11 00:00 +0000
-type: paper
-authors: White, S. ; Yehle, T. ; Serrano, H. ; Oliveira, M. ; Menezes, R.
-where: 6th International Conference on Social Informatics (SocInfo 2014). First Workshop on Criminal Network Analysis and Mining, 2014. Barcelona, Spain.
+type: conference
+authors: Sarah White, Tobin Yehle, Hugo Serrano, Marcos Oliveira, and Ronaldo Menezes
+where: 6th International Conference on Social Informatics (SocInfo 2014). First Workshop on Criminal Network Analysis and Mining, Barcelona, Spain. 2014.
 doi_link: 'http://dx.doi.org/10.1007/978-3-319-15168-7_14'
 arxiv_link: ''
 paper_download: 'files/2014_WYSOM_CRIMENET_Borders_of_Crime.pdf'

@@ -2,9 +2,9 @@
 layout: post
 title: From Criminal Spheres of Familiarity to Crime Networks
 date: 2015-05-23 00:00 +0000
-type: paper
-authors: Oliveira, M. ; Serrano, H. ; Yehle, T. ; White, S. ; Menezes, R
-where: 6th Workshop on Complex Networks (COMPLENET), 2015. New York, USA.
+type: conference
+authors: Marcos Oliveira, Hugo Barbosa-Filho, Tobin Yehle, Sarah White, and Ronaldo Menezes
+where: 6th Workshop on Complex Networks (COMPLENET), New York, USA. 2015.
 doi_link: 'http://dx.doi.org/10.1007/978-3-319-16112-9_22'
 arxiv_link: ''
 paper_download: 'files/2015_OSYWM_Complenet_Crime_Networks.pdf'

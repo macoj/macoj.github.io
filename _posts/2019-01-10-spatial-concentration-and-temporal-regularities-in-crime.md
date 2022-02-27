@@ -1,9 +1,9 @@
 ---
 layout: post
-type: paper
+type: chapter
 date: 2019-01-10 12:04:22 +0100
 title: "Spatial concentration and temporal regularities in crime"
-authors: Oliveira, M.; Menezes, R.
+authors: Marcos Oliveira and Ronaldo Menezes
 where: "To appear in \"Understanding Crime through Science\" (Springer Computational Social Sciences series). 2019."
 arxiv_link: "http://arxiv.org/abs/1901.03589"
 doi_link: ""

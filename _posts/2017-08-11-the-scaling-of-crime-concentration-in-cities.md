@@ -2,9 +2,9 @@
 layout: post
 title: The scaling of crime concentration in cities
 date: 2017-08-11 00:00 +0000
-type: paper
-authors: Oliveira, M.; Bastos-Filho, C.; Menezes, R.
-where: "PLOS ONE 12(8): e0183110. 2017."
+type: journal
+authors: Marcos Oliveira, Carmelo Bastos-Filho, and Ronaldo Menezes
+where: "PLOS ONE 12(8): e0183110 (2017)"
 doi_link: 'http://dx.doi.org/10.1371/journal.pone.0183110'
 arxiv_link: ''
 paper_download: 'files/2017_OBM_PLOS_CRIME.pdf'
