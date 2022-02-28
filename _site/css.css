@@ -22,6 +22,7 @@ body {
   border: 0px none;
   font: inherit;
   background-color: #f1f1f1;
+  background-image: linear-gradient(to right, #EFEFEF, #f1f1f1);
 }
 header {
   overflow: visible;
@@ -209,7 +210,6 @@ img.doi {
 img.download {
   margin: 0rem 0.1rem -0.3rem 0.2rem ;
   height: 1.2rem;
-
 }
 
 img.images {
