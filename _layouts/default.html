@@ -11,7 +11,7 @@
 <meta name="description" content="Marcos Oliveira's home page" />
 <link rel="shortcut icon" type="image/x-icon" href="/figures/favicon.png">
 <title> marcos oliveira | complex systems - crime dynamics - swarm intelligence | marcosoliveira.info </title>
-<script language="javascript" type="text/javascript">
+<!-- <script language="javascript" type="text/javascript">
     function showHide(shID) {
        if (document.getElementById(shID)) {
           if (document.getElementById(shID+'-show').style.display != 'none') {
@@ -35,10 +35,10 @@
       ga('create', 'UA-91150895-1', 'auto');
     }
     ga('send', 'pageview');
-</script>
-
+</script> -->
+<!--
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101307570);</script>
-<script async src="//static.getclicky.com/js"></script>
+<script async src="//static.getclicky.com/js"></script> -->
 
 <!-- <script>
   !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
@@ -83,12 +83,6 @@
 {% if site.comments.isso %}<script data-isso="http://{{ site.comments.isso }}" src="//{{ site.comments.isso }}/js/embed.min.js"></script>{% endif %}
 
 </head>
-<script language="javascript" type="text/javascript">
-  document.write("<object data=https://server.marcosoliveira.info/include.php?location={{ page.url }}&referrer=\""+ document.referrer + "\" width=10 height=10 type=\"text\/html\"> </object>");
-</script>
-<noscript>
-  <object data="https://server.marcosoliveira.info/include.php?location={{ page.url }}&ip=123" width="10" height="10" type="text/html"> </object>
-</noscript>
 
 <header>
 
@@ -104,4 +98,12 @@ color: #ffffff; font-weight: normal;">marcos oliveira</h1></a>
     </div>
   </div>
 </section>
+
 {{ content }}
+
+<script language="javascript" type="text/javascript">
+  document.write("<object data=https://server.marcosoliveira.info/include.php?location={{ page.url }}&referrer=\""+ document.referrer + "\" width=10 height=10 type=\"text\/html\"> </object>");
+</script>
+<noscript>
+  <object data="https://server.marcosoliveira.info/include.php?location={{ page.url }}&ip=123" width="10" height="10" type="text/html"> </object>
+</noscript>
