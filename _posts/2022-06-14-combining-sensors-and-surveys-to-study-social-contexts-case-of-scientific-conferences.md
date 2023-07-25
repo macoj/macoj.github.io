@@ -3,10 +3,10 @@ layout: post
 title: 'Combining sensors and surveys to study social contexts: Case of scientific
   conferences'
 date: 2022-06-14 12:08 +0100
-type: preprint
+type: journal
 authors: Mathieu Génois, Maria Zens, Marcos Oliveira, Clemens Lechner, Johann Schaible, and Markus Strohmaier
-where: "arXiv (2022). "
-doi_link: ''
+where: "Personality Science 4 (2023). "
+doi_link: 'https://doi.org/10.5964/ps.9957'
 arxiv_link: 'https://arxiv.org/abs/2206.05201'
 paper_download: ''
 ---

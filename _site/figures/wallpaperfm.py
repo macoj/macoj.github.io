@@ -29,38 +29,38 @@ from PIL import ImageDraw
 from PIL import ImageFilter
 
 def usage():
-	print "Quick examples"
-	print "--------------"
-	print "./wallpaperfm.py -m tile -u your_lastfm_username	will generate an image with all your favorite albums tiled up in a random order."
-	print "./wallpaperfm.py -m glass -u your_lastfm_username	will generate an image with a small random collection of albums, with a glassy effect."
-	print "./wallpaperfm.py -m collage -u your_lastfm_username	will generate a random collage of your favorite albums."
-
-	print "\nGlobal switches:"
-	print "-u, --Username: your last.fm username."
-	print "-f, --Filename: the filename where the image will be saved. Username by default."
-	print "-t, --Past: [overall] how far back should the profile go. One of 3month,6month,12month or overall."
-	print "-O, --FinalOpacity: [80] darkness of the final image. from 0 to 100"
-	print "-i, --ImageSize: [1280x1024] size of the final image. Format: numberxnumber"
-	print "-c, --CanvasSize: size of the canvas. = image size by default."
-	print "-e, --Cache: [wpcache] path to the cache."
-	print "-x, --ExcludedList: ['http://cdn.last.fm/depth/catalogue/noimage/cover_med.gif'] excluded urls, comma separated."
-	print "-l, --Local: use a local copy of the charts. Ideal for using it offline or being kind to the last.fm servers."
-
-	print "\nSpecific switches for the 'tile' mode (-m tile):"
-	print "-a, --AlbumSize: [130] size of the albums, in pixel."
-	print "-s, --Interspace: [5]  space between in tile, in pixel."
-
-	print "\nSpecific switches for the 'glass' mode (-m glass):"
-	print "-n, --AlbumNumber: [7] number of albums to show."
-	print "-d, --EndPoint: [75] controls when the shadow ends, in percentage of the album size."
-	print "-r, --Offset: [40] starting value of opacity for the shadow."
-
-	print "\nSpecific switches for the 'collage' mode (-m collage):"
-	print "-a, --AlbumSize: [250] size of the albums, in pixel."
-	print "-o, --AlbumOpacity: [90] maximum opacity of each album, from 0 to 100."
-	print "-n, --AlbumNumber: [50] number of albums to show."
-	print "-g, --GradientSize: [15] portion of the album in the gradient, from 0 to 100"
-	print "-p, --Passes: [4] number of iterations of the algorithms."
+	# print "Quick examples"
+	# print "--------------"
+	# print "./wallpaperfm.py -m tile -u your_lastfm_username	will generate an image with all your favorite albums tiled up in a random order."
+	# print "./wallpaperfm.py -m glass -u your_lastfm_username	will generate an image with a small random collection of albums, with a glassy effect."
+	# print "./wallpaperfm.py -m collage -u your_lastfm_username	will generate a random collage of your favorite albums."
+	#
+	# print "\nGlobal switches:"
+	# print "-u, --Username: your last.fm username."
+	# print "-f, --Filename: the filename where the image will be saved. Username by default."
+	# print "-t, --Past: [overall] how far back should the profile go. One of 3month,6month,12month or overall."
+	# print "-O, --FinalOpacity: [80] darkness of the final image. from 0 to 100"
+	# print "-i, --ImageSize: [1280x1024] size of the final image. Format: numberxnumber"
+	# print "-c, --CanvasSize: size of the canvas. = image size by default."
+	# print "-e, --Cache: [wpcache] path to the cache."
+	# print "-x, --ExcludedList: ['http://cdn.last.fm/depth/catalogue/noimage/cover_med.gif'] excluded urls, comma separated."
+	# print "-l, --Local: use a local copy of the charts. Ideal for using it offline or being kind to the last.fm servers."
+	#
+	# print "\nSpecific switches for the 'tile' mode (-m tile):"
+	# print "-a, --AlbumSize: [130] size of the albums, in pixel."
+	# print "-s, --Interspace: [5]  space between in tile, in pixel."
+	#
+	# print "\nSpecific switches for the 'glass' mode (-m glass):"
+	# print "-n, --AlbumNumber: [7] number of albums to show."
+	# print "-d, --EndPoint: [75] controls when the shadow ends, in percentage of the album size."
+	# print "-r, --Offset: [40] starting value of opacity for the shadow."
+	#
+	# print "\nSpecific switches for the 'collage' mode (-m collage):"
+	# print "-a, --AlbumSize: [250] size of the albums, in pixel."
+	# print "-o, --AlbumOpacity: [90] maximum opacity of each album, from 0 to 100."
+	# print "-n, --AlbumNumber: [50] number of albums to show."
+	# print "-g, --GradientSize: [15] portion of the album in the gradient, from 0 to 100"
+	# print "-p, --Passes: [4] number of iterations of the algorithms."
 	sys.exit()
 
 def getSize(s):
@@ -107,10 +107,10 @@ def getParameters():
 
 	try:
 		optlist, args=getopt(sys.argv[1:], 'hu:t:n:c:f:a:o:g:O:i:m:p:s:e:d:r:x:l',["help", "Mode=", "Username=", "Past=", "Filename=","CanvasSize=", "ImageSize=", "FinalOpacity=", "AlbumSize=","AlbumOpacity=","GradientSize=", "Passes=", "AlbumNumber=", "Interspace=","Cache=","Offset=","EndPoint=","ExcludedList=","Local"])
-	except Exception, err:
-		print "#"*20
-		print str(err)
-		print "#"*20
+	except Exception as err:
+		# print "#"*20
+		# print str(err)
+		# print "#"*20
 		usage()
 	if len(optlist)==0:
 		usage()
@@ -175,7 +175,8 @@ def getParameters():
 
 
 		else:
-			print "I'm not using ", option
+			# print "I'm not using ", option
+			pass
 
 	if Filename=='': # by default, Filename=Username
 		Filename=Profile['Username']
@@ -214,7 +215,7 @@ def IsImageFile(imfile):
 	flag=True
 	try:
 		i=Image.open(imfile)
-	except Exception,err:
+	except Exception as err:
 		flag=False
 	return flag
 
@@ -228,34 +229,36 @@ def getAlbumCovers(Username='Koant',Past='overall',cache='wp_cache',ExcludedList
 	api_key = 'a75ef2fdf6bcda1a842b20dfb932117b'
 	# url='http://ws.audioscrobbler.com/1.0/user/'+Username+'/topalbums.xml?limit='+str(Limit)+tpe
 	url='http://ws.audioscrobbler.com/2.0/?method=user.gettopalbums&user='+Username+tpe+'&limit='+str(Limit)+ '&api_key='+api_key
-        print url
+    # print(url)
+
 	# make cache if doesn't exist
 	if not os.path.exists(cache):
-		print "cache directory ("+cache+") doesn't exist. I'm creating it."
+		# print "cache directory ("+cache+") doesn't exist. I'm creating it."
 		os.mkdir(cache)
 
 	# Make a local copy of the charts
 	if Local=='no':
 		try:
-			print "Downloading from ",url
+			# print "Downloading from ",url
 			download(url,cache+os.sep+'charts_'+Username+'.xml')
 		except Exception,err:
-			print "#"*20
-			print "I couldn't download the profile or make a local copy of it."
-			print "#"*20
+			# print "#"*20
+			# print "I couldn't download the profile or make a local copy of it."
+			# print "#"*20
 	else:
-		print "Reading from local copy:  ",cache+os.sep+'charts_'+Username+'.xml'
+		# print "Reading from local copy:  ",cache+os.sep+'charts_'+Username+'.xml'
+		pass
 
 	# Parse image filenames
-	print "Parsing..."
+	# print "Parsing..."
 	try:
 		data=open(cache+os.sep+'charts_'+Username+'.xml','rb')
 		xmldoc=minidom.parse(data)
 		data.close()
 	except Exception,err:
-		print '#'*20
-		print "Error while parsing your profile. Your username might be misspelt or your charts empty."
-		print '#'*20
+		# print '#'*20
+		# print "Error while parsing your profile. Your username might be misspelt or your charts empty."
+		# print '#'*20
 		sys.exit()
 
 	# filelist=[imfile.firstChild.data for imfile in xmldoc.getElementsByTagName('image') if imfile]
@@ -267,9 +270,9 @@ def getAlbumCovers(Username='Koant',Past='overall',cache='wp_cache',ExcludedList
 
 	# Stop if charts are empty
 	if len(filelist)==0:
-		print '#'*20
-		print "Your charts are empty. I can't proceed."
-		print '#'*20
+		# print '#'*20
+		# print "Your charts are empty. I can't proceed."
+		# print '#'*20
 		sys.exit()
 
 	# download covers only if not available in the cache
@@ -277,7 +280,7 @@ def getAlbumCovers(Username='Koant',Past='overall',cache='wp_cache',ExcludedList
 		url=imfile
 		imfile=makeFilename(imfile)
 		if not os.path.exists(cache+os.sep+imfile):
-			print "	Downloading ",url
+			# print "	Downloading ",url
 			download(url,cache+os.sep+imfile)
 
 	filelist=[cache+os.sep+makeFilename(imfile) for imfile in filelist]
@@ -322,12 +325,12 @@ def Tile(Profile,ImageSize=(1350,540),CanvasSize=(1350,540),AlbumSize=130,FinalO
 			imfile=filelist2.pop()
 			try:
 				im=Image.open(imfile).convert('RGB')
-			except Exception,err:
-				print "#"*20
-				print err
-				print "I couln't read that file: "+imfile
-				print "You might want to exclude its corresponding URL with -x because it probably doesn't point to an image."
-				print "#"*20
+			except Exception as err:
+				# print "#"*20
+				# print err
+				# print "I couln't read that file: "+imfile
+				# print "You might want to exclude its corresponding URL with -x because it probably doesn't point to an image."
+				# print "#"*20
 				sys.exit()
 			im=im.resize((AlbumSize,AlbumSize),2)
 			background.paste(im,(posx+offsetx,posy+offsety))
