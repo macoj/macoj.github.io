@@ -21,7 +21,7 @@ body {
   padding: 0px;
   border: 0px none;
   font: inherit;
-  background-color: #B0B9C3;
+  background-color: #CBD2D9;
   /* background-image: linear-gradient(to right, #EFEFEF, #B0B9C3); */
 }
 header {
@@ -53,7 +53,7 @@ section {
 
 }
 section#email {
-  background-color: #CACACA;;
+  background-color: #D2D2D2;;
   font-family: Miller,Georgia,serif;
   font-size: 14px;
   color: #00;
