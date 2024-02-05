@@ -2,10 +2,10 @@
 layout: post
 title: On the inadequacy of nominal assortativity for assessing homophily in networks
 date: 2022-12-06 11:51 +0000
-type: preprint
+type: journal
 authors: Fariba Karimi and Marcos Oliveira
-where: "arXiv (2022). "
-doi_link: ''
+where: "Scientific Reports 13 (2023). "
+doi_link: 'https://doi.org/10.1038/s41598-023-48113-5'
 arxiv_link: 'https://arxiv.org/abs/2211.10245'
 paper_download: ''
 ---
