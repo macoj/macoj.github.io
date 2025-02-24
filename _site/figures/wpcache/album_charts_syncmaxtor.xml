@@ -1,54 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lfm status="ok">
-  <topalbums user="syncmaxtor" page="1" perPage="48" totalPages="9" total="400">
+  <topalbums user="syncmaxtor" page="1" perPage="48" totalPages="4" total="176">
     <album rank="1">
-      <name>Eidolon</name>
-      <playcount>69</playcount>
-      <mbid>1e147890-5848-40b7-acf6-164c8347cb11</mbid>
-      <url>https://www.last.fm/music/Benji+Vaughan/Eidolon</url>
+      <name>Con Todo El Mundo</name>
+      <playcount>22</playcount>
+      <mbid>25bdabb1-f768-45f4-a6a4-a35718d70a1e</mbid>
+      <url>https://www.last.fm/music/Khruangbin/Con+Todo+El+Mundo</url>
       <artist>
-        <name>Benji Vaughan</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Benji+Vaughan</url>
+        <name>Khruangbin</name>
+        <mbid>aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634</mbid>
+        <url>https://www.last.fm/music/Khruangbin</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/2c50b0b42521923f4c84a398ba654104.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/2c50b0b42521923f4c84a398ba654104.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/2c50b0b42521923f4c84a398ba654104.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/2c50b0b42521923f4c84a398ba654104.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/88e31946c4bf03ae1828f991d00cccdd.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/88e31946c4bf03ae1828f991d00cccdd.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/88e31946c4bf03ae1828f991d00cccdd.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/88e31946c4bf03ae1828f991d00cccdd.jpg</image>
     </album>
     <album rank="2">
-      <name>Even Tundra</name>
-      <playcount>55</playcount>
-      <mbid>735065ae-0f98-45cc-bfe9-21f3f6ee3d85</mbid>
-      <url>https://www.last.fm/music/Benji+Vaughan/Even+Tundra</url>
+      <name>she says it&apos;s too much</name>
+      <playcount>21</playcount>
+      <mbid>7053bea2-b132-413a-acf6-861388d223ae</mbid>
+      <url>https://www.last.fm/music/Bassti/she+says+it%27s+too+much</url>
       <artist>
-        <name>Benji Vaughan</name>
+        <name>Bassti</name>
         <mbid></mbid>
-        <url>https://www.last.fm/music/Benji+Vaughan</url>
+        <url>https://www.last.fm/music/Bassti</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c00a31176444ce49d8df918b2f5bdb6f.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c00a31176444ce49d8df918b2f5bdb6f.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c00a31176444ce49d8df918b2f5bdb6f.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c00a31176444ce49d8df918b2f5bdb6f.jpg</image>
     </album>
     <album rank="3">
-      <name>Me Chama De Gato Que Eu Sou Sua</name>
-      <playcount>37</playcount>
-      <mbid>238b3f21-bed2-408a-bad1-c1f85a13ccdc</mbid>
-      <url>https://www.last.fm/music/Ana+Frango+El%C3%A9trico/Me+Chama+De+Gato+Que+Eu+Sou+Sua</url>
+      <name>Oproprio</name>
+      <playcount>15</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Yago+Oproprio/Oproprio</url>
       <artist>
-        <name>Ana Frango Elétrico</name>
-        <mbid>cd8086e3-9249-4d5a-a3a0-a20731c98653</mbid>
-        <url>https://www.last.fm/music/Ana+Frango+El%C3%A9trico</url>
+        <name>Yago Oproprio</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Yago+Oproprio</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/849720bdfd22419153476260db67cb33.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/849720bdfd22419153476260db67cb33.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/849720bdfd22419153476260db67cb33.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/849720bdfd22419153476260db67cb33.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/2e5a07935fc848fc836b82bbd8fec00c.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/2e5a07935fc848fc836b82bbd8fec00c.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/2e5a07935fc848fc836b82bbd8fec00c.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/2e5a07935fc848fc836b82bbd8fec00c.jpg</image>
     </album>
     <album rank="4">
+      <name>Cores &amp; Valores</name>
+      <playcount>14</playcount>
+      <mbid>0fef17dc-5bc7-4628-83fe-496d55106a61</mbid>
+      <url>https://www.last.fm/music/Racionais+MC%27s/Cores+&amp;+Valores</url>
+      <artist>
+        <name>Racionais MC&apos;s</name>
+        <mbid>96351496-268f-4ef2-8f7d-768cffdef190</mbid>
+        <url>https://www.last.fm/music/Racionais+MC%27s</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/7df2c5be51184f01cf70f153e80c1472.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/7df2c5be51184f01cf70f153e80c1472.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/7df2c5be51184f01cf70f153e80c1472.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/7df2c5be51184f01cf70f153e80c1472.png</image>
+    </album>
+    <album rank="5">
+      <name>Babylon By Gus Vol. 1 - O Ano do Macaco</name>
+      <playcount>13</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Black+Alien/Babylon+By+Gus+Vol.+1+-+O+Ano+do+Macaco</url>
+      <artist>
+        <name>Black Alien</name>
+        <mbid>46a7b248-112e-4e62-bc32-aeea5029f53b</mbid>
+        <url>https://www.last.fm/music/Black+Alien</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/936d2d411e134f6fabf794995b127735.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/936d2d411e134f6fabf794995b127735.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/936d2d411e134f6fabf794995b127735.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/936d2d411e134f6fabf794995b127735.jpg</image>
+    </album>
+    <album rank="6">
       <name>A La Sala</name>
-      <playcount>36</playcount>
+      <playcount>12</playcount>
       <mbid>ef72b5f2-1bd6-4e0a-afd1-e97886fb47e7</mbid>
       <url>https://www.last.fm/music/Khruangbin/A+La+Sala</url>
       <artist>
@@ -61,249 +91,24 @@
       <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/967aa08ccc203e6952654600f8028775.jpg</image>
       <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/967aa08ccc203e6952654600f8028775.jpg</image>
     </album>
-    <album rank="5">
-      <name>carnaval divinal</name>
-      <playcount>33</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Bloco+Da+Saudade/carnaval+divinal</url>
-      <artist>
-        <name>Bloco Da Saudade</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Bloco+Da+Saudade</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/7c0e6f954fff466faa16552131551535.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/7c0e6f954fff466faa16552131551535.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/7c0e6f954fff466faa16552131551535.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/7c0e6f954fff466faa16552131551535.jpg</image>
-    </album>
-    <album rank="6">
-      <name>Adventures on the Floating Island</name>
-      <playcount>22</playcount>
-      <mbid>fd286be1-e2ab-49bb-b04b-fa19327c6a12</mbid>
-      <url>https://www.last.fm/music/Monster+Rally/Adventures+on+the+Floating+Island</url>
-      <artist>
-        <name>Monster Rally</name>
-        <mbid>ba934f3d-4e53-482a-a632-6848935de50c</mbid>
-        <url>https://www.last.fm/music/Monster+Rally</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/4eafb00fd76ced8a121a358b9b209aaf.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/4eafb00fd76ced8a121a358b9b209aaf.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/4eafb00fd76ced8a121a358b9b209aaf.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/4eafb00fd76ced8a121a358b9b209aaf.jpg</image>
-    </album>
     <album rank="7">
-      <name>good kid, m.A.A.d city (Deluxe)</name>
-      <playcount>21</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Kendrick+Lamar/good+kid,+m.A.A.d+city+(Deluxe)</url>
+      <name>Hasta El Cielo</name>
+      <playcount>12</playcount>
+      <mbid>531b41c1-83b6-464f-9e35-e118e5d117b8</mbid>
+      <url>https://www.last.fm/music/Khruangbin/Hasta+El+Cielo</url>
       <artist>
-        <name>Kendrick Lamar</name>
-        <mbid>381086ea-f511-4aba-bdf9-71c753dc5077</mbid>
-        <url>https://www.last.fm/music/Kendrick+Lamar</url>
+        <name>Khruangbin</name>
+        <mbid>aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634</mbid>
+        <url>https://www.last.fm/music/Khruangbin</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/e0de576a486344cbfe3fa52a1d14bf47.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/e0de576a486344cbfe3fa52a1d14bf47.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/e0de576a486344cbfe3fa52a1d14bf47.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/e0de576a486344cbfe3fa52a1d14bf47.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/000fa5a2939aa82028c213f1ff102957.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/000fa5a2939aa82028c213f1ff102957.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/000fa5a2939aa82028c213f1ff102957.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/000fa5a2939aa82028c213f1ff102957.jpg</image>
     </album>
     <album rank="8">
-      <name>O melhor de ALceu Valença</name>
-      <playcount>20</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Alceu+Valen%C3%A7a/O+melhor+de+ALceu+Valen%C3%A7a</url>
-      <artist>
-        <name>Alceu Valença</name>
-        <mbid>7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4</mbid>
-        <url>https://www.last.fm/music/Alceu+Valen%C3%A7a</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/63078a9156f1e6e6518830d835596f2b.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/63078a9156f1e6e6518830d835596f2b.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/63078a9156f1e6e6518830d835596f2b.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/63078a9156f1e6e6518830d835596f2b.jpg</image>
-    </album>
-    <album rank="9">
-      <name>Cinco Sentidos</name>
-      <playcount>15</playcount>
-      <mbid>18f0e3b3-a5dd-4cdf-97b9-9d5a0457dd8e</mbid>
-      <url>https://www.last.fm/music/Alceu+Valen%C3%A7a/Cinco+Sentidos</url>
-      <artist>
-        <name>Alceu Valença</name>
-        <mbid>7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4</mbid>
-        <url>https://www.last.fm/music/Alceu+Valen%C3%A7a</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/e8877d89c63235386cd9dc63ecfb7cdd.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/e8877d89c63235386cd9dc63ecfb7cdd.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/e8877d89c63235386cd9dc63ecfb7cdd.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/e8877d89c63235386cd9dc63ecfb7cdd.jpg</image>
-    </album>
-    <album rank="10">
-      <name>20 Grandes Sucessos De Alceu Valença</name>
-      <playcount>14</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Alceu+Valen%C3%A7a/20+Grandes+Sucessos+De+Alceu+Valen%C3%A7a</url>
-      <artist>
-        <name>Alceu Valença</name>
-        <mbid>7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4</mbid>
-        <url>https://www.last.fm/music/Alceu+Valen%C3%A7a</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/634714b3f5999c09e69736e3aa2669a0.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/634714b3f5999c09e69736e3aa2669a0.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/634714b3f5999c09e69736e3aa2669a0.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/634714b3f5999c09e69736e3aa2669a0.jpg</image>
-    </album>
-    <album rank="11">
-      <name>Flowering Jungle</name>
-      <playcount>14</playcount>
-      <mbid>3bd49cf9-f915-47aa-85ff-7f2dde6778f6</mbid>
-      <url>https://www.last.fm/music/Monster+Rally/Flowering+Jungle</url>
-      <artist>
-        <name>Monster Rally</name>
-        <mbid>ba934f3d-4e53-482a-a632-6848935de50c</mbid>
-        <url>https://www.last.fm/music/Monster+Rally</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/df0dd47fab2e8039f48f1367a36b770f.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/df0dd47fab2e8039f48f1367a36b770f.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/df0dd47fab2e8039f48f1367a36b770f.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/df0dd47fab2e8039f48f1367a36b770f.jpg</image>
-    </album>
-    <album rank="12">
-      <name>Flux &amp; Contemplation - Portrait of an Artist in Isolation</name>
-      <playcount>14</playcount>
-      <mbid>8796bc7d-9845-46b3-8cfc-cadf9e1a1737</mbid>
-      <url>https://www.last.fm/music/Simon+Posford/Flux+&amp;+Contemplation+-+Portrait+of+an+Artist+in+Isolation</url>
-      <artist>
-        <name>Simon Posford</name>
-        <mbid>6ee02593-a29f-4a46-8adb-d8e1f4b00036</mbid>
-        <url>https://www.last.fm/music/Simon+Posford</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/12d4e11ec9f51d882353b1b49311e6c0.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/12d4e11ec9f51d882353b1b49311e6c0.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/12d4e11ec9f51d882353b1b49311e6c0.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/12d4e11ec9f51d882353b1b49311e6c0.jpg</image>
-    </album>
-    <album rank="13">
-      <name>Penguin Café Orchestra</name>
-      <playcount>13</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Penguin+Cafe+Orchestra/Penguin+Caf%C3%A9+Orchestra</url>
-      <artist>
-        <name>Penguin Cafe Orchestra</name>
-        <mbid>4dfadf48-e15b-4fc2-a800-2b68702a72d5</mbid>
-        <url>https://www.last.fm/music/Penguin+Cafe+Orchestra</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/0001a16b1f0f76bbf2b20c371c77e3c3.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/0001a16b1f0f76bbf2b20c371c77e3c3.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/0001a16b1f0f76bbf2b20c371c77e3c3.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/0001a16b1f0f76bbf2b20c371c77e3c3.jpg</image>
-    </album>
-    <album rank="14">
-      <name>20 Grandes Sucessos De Raul Seixas</name>
-      <playcount>12</playcount>
-      <mbid>04df3673-4320-4e22-b72c-fd5c0e811c08</mbid>
-      <url>https://www.last.fm/music/Raul+Seixas/20+Grandes+Sucessos+De+Raul+Seixas</url>
-      <artist>
-        <name>Raul Seixas</name>
-        <mbid>c4efd92a-5692-41d5-91bb-b23d4b75e735</mbid>
-        <url>https://www.last.fm/music/Raul+Seixas</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/ffd130bf2dcf762a7139d786c2ab4f77.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/ffd130bf2dcf762a7139d786c2ab4f77.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/ffd130bf2dcf762a7139d786c2ab4f77.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/ffd130bf2dcf762a7139d786c2ab4f77.jpg</image>
-    </album>
-    <album rank="15">
-      <name>The Last Days Of Gravity</name>
-      <playcount>12</playcount>
-      <mbid>913fd1ba-4f98-47b9-8e58-a495066f94c2</mbid>
-      <url>https://www.last.fm/music/Younger+Brother/The+Last+Days+Of+Gravity</url>
-      <artist>
-        <name>Younger Brother</name>
-        <mbid>22aaf663-732d-4ba7-b409-0722d2b5258b</mbid>
-        <url>https://www.last.fm/music/Younger+Brother</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/8d50a88c82d51e67206bafd191f62d56.jpg</image>
-    </album>
-    <album rank="16">
-      <name>Coração Bobo</name>
-      <playcount>11</playcount>
-      <mbid>027c7abd-eb80-4cb2-bb64-79afbd4ca544</mbid>
-      <url>https://www.last.fm/music/Alceu+Valen%C3%A7a/Cora%C3%A7%C3%A3o+Bobo</url>
-      <artist>
-        <name>Alceu Valença</name>
-        <mbid>7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4</mbid>
-        <url>https://www.last.fm/music/Alceu+Valen%C3%A7a</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/63f22fcb9f4c62ed9f1ae6da75ba2d12.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/63f22fcb9f4c62ed9f1ae6da75ba2d12.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/63f22fcb9f4c62ed9f1ae6da75ba2d12.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/63f22fcb9f4c62ed9f1ae6da75ba2d12.jpg</image>
-    </album>
-    <album rank="17">
-      <name>Ott &amp; The All-Seeing I (Live At Terminal West)</name>
-      <playcount>11</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Ott/Ott+&amp;+The+All-Seeing+I+(Live+At+Terminal+West)</url>
-      <artist>
-        <name>Ott</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Ott</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/e5f3a7808b824394953514a8dfca2c4c.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/e5f3a7808b824394953514a8dfca2c4c.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/e5f3a7808b824394953514a8dfca2c4c.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/e5f3a7808b824394953514a8dfca2c4c.jpg</image>
-    </album>
-    <album rank="18">
-      <name>All Quiet on the Eastern Esplanade</name>
-      <playcount>11</playcount>
-      <mbid>c34416bf-b52e-489d-88c0-3e464472b308</mbid>
-      <url>https://www.last.fm/music/The+Libertines/All+Quiet+on+the+Eastern+Esplanade</url>
-      <artist>
-        <name>The Libertines</name>
-        <mbid>82b304c0-7da4-45d3-896a-0767c7ae1141</mbid>
-        <url>https://www.last.fm/music/The+Libertines</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/d62a2f0d250b21c22032729a8e9081a0.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/d62a2f0d250b21c22032729a8e9081a0.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/d62a2f0d250b21c22032729a8e9081a0.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/d62a2f0d250b21c22032729a8e9081a0.jpg</image>
-    </album>
-    <album rank="19">
-      <name>Raja Rams Pipedreams</name>
-      <playcount>11</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Various+Artists/Raja+Rams+Pipedreams</url>
-      <artist>
-        <name>Various Artists</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Various+Artists</url>
-      </artist>
-      <image size="small"></image>
-      <image size="medium"></image>
-      <image size="large"></image>
-      <image size="extralarge"></image>
-    </album>
-    <album rank="20">
-      <name>Mágico</name>
-      <playcount>10</playcount>
-      <mbid>a6930627-2765-437a-af12-5e7d4487f2f5</mbid>
-      <url>https://www.last.fm/music/Alceu+Valen%C3%A7a/M%C3%A1gico</url>
-      <artist>
-        <name>Alceu Valença</name>
-        <mbid>7a08d4fb-e5c1-4c39-a99b-1908ca2e83b4</mbid>
-        <url>https://www.last.fm/music/Alceu+Valen%C3%A7a</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/d05632fe3f89bcc90f1b2e585a8a11f2.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/d05632fe3f89bcc90f1b2e585a8a11f2.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/d05632fe3f89bcc90f1b2e585a8a11f2.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/d05632fe3f89bcc90f1b2e585a8a11f2.jpg</image>
-    </album>
-    <album rank="21">
       <name>Nação Zumbi</name>
-      <playcount>10</playcount>
+      <playcount>11</playcount>
       <mbid>60fcd7d6-9c79-4557-a0a3-af1e129cc925</mbid>
       <url>https://www.last.fm/music/Na%C3%A7%C3%A3o+Zumbi/Na%C3%A7%C3%A3o+Zumbi</url>
       <artist>
@@ -316,69 +121,129 @@
       <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/5a7c283d9f644308c3708abd8a636dbb.png</image>
       <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/5a7c283d9f644308c3708abd8a636dbb.png</image>
     </album>
-    <album rank="22">
-      <name>Caetano Veloso</name>
-      <playcount>9</playcount>
-      <mbid>067fe766-e176-4b3d-a80e-706bc1f1bfe9</mbid>
-      <url>https://www.last.fm/music/Caetano+Veloso/Caetano+Veloso</url>
+    <album rank="9">
+      <name>Familiar To Millions (Live)</name>
+      <playcount>11</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Oasis/Familiar+To+Millions+(Live)</url>
       <artist>
-        <name>Caetano Veloso</name>
-        <mbid>f07dbc2f-317b-470f-bad4-5f1b0eb6faf1</mbid>
-        <url>https://www.last.fm/music/Caetano+Veloso</url>
+        <name>Oasis</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Oasis</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/af0ad021b9879028193a148f4cf4e12c.png</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/af0ad021b9879028193a148f4cf4e12c.png</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/af0ad021b9879028193a148f4cf4e12c.png</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/af0ad021b9879028193a148f4cf4e12c.png</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/4483fd148be9819b92a5d1f010544004.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/4483fd148be9819b92a5d1f010544004.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/4483fd148be9819b92a5d1f010544004.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/4483fd148be9819b92a5d1f010544004.jpg</image>
     </album>
-    <album rank="23">
-      <name>Um concerto bárbaro: Acústico ao vivo</name>
+    <album rank="10">
+      <name>Heathen Chemistry</name>
+      <playcount>9</playcount>
+      <mbid>22dacc34-e04f-4b9e-97a5-3dedd3b0a56e</mbid>
+      <url>https://www.last.fm/music/Oasis/Heathen+Chemistry</url>
+      <artist>
+        <name>Oasis</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Oasis</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/6a54881070cc06d4d4a15f7847c4c255.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/6a54881070cc06d4d4a15f7847c4c255.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/6a54881070cc06d4d4a15f7847c4c255.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/6a54881070cc06d4d4a15f7847c4c255.jpg</image>
+    </album>
+    <album rank="11">
+      <name>Standing on the Shoulder of Giants</name>
+      <playcount>9</playcount>
+      <mbid>0c732f4c-c131-485d-b652-b0d5382e52af</mbid>
+      <url>https://www.last.fm/music/Oasis/Standing+on+the+Shoulder+of+Giants</url>
+      <artist>
+        <name>Oasis</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Oasis</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/b2d1dbd792e8404ac079c504af8bd26c.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/b2d1dbd792e8404ac079c504af8bd26c.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/b2d1dbd792e8404ac079c504af8bd26c.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/b2d1dbd792e8404ac079c504af8bd26c.png</image>
+    </album>
+    <album rank="12">
+      <name>Legiao Urbana V</name>
       <playcount>8</playcount>
       <mbid></mbid>
-      <url>https://www.last.fm/music/Belchior/Um+concerto+b%C3%A1rbaro:+Ac%C3%BAstico+ao+vivo</url>
+      <url>https://www.last.fm/music/Legi%C3%A3o+Urbana/Legiao+Urbana+V</url>
       <artist>
-        <name>Belchior</name>
-        <mbid>d51c2d7f-921e-4f24-9fe7-92efc5189708</mbid>
-        <url>https://www.last.fm/music/Belchior</url>
+        <name>Legião Urbana</name>
+        <mbid>47685be0-926f-4be9-b1ae-e32da47a3b99</mbid>
+        <url>https://www.last.fm/music/Legi%C3%A3o+Urbana</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/dbed9afd257a605693f800c92779271a.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/dbed9afd257a605693f800c92779271a.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/dbed9afd257a605693f800c92779271a.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/dbed9afd257a605693f800c92779271a.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c3177ba52d9d79733b400a3331e2e956.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c3177ba52d9d79733b400a3331e2e956.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c3177ba52d9d79733b400a3331e2e956.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c3177ba52d9d79733b400a3331e2e956.jpg</image>
     </album>
-    <album rank="24">
-      <name>Parachutes</name>
+    <album rank="13">
+      <name>The Last Days Of Gravity</name>
       <playcount>8</playcount>
-      <mbid>0ec052ee-8c50-48f3-8682-501778dfc823</mbid>
-      <url>https://www.last.fm/music/Coldplay/Parachutes</url>
+      <mbid>913fd1ba-4f98-47b9-8e58-a495066f94c2</mbid>
+      <url>https://www.last.fm/music/Younger+Brother/The+Last+Days+Of+Gravity</url>
       <artist>
-        <name>Coldplay</name>
-        <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
-        <url>https://www.last.fm/music/Coldplay</url>
+        <name>Younger Brother</name>
+        <mbid>22aaf663-732d-4ba7-b409-0722d2b5258b</mbid>
+        <url>https://www.last.fm/music/Younger+Brother</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/5fbcfb7258117e88cb73b45e25c88b01.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/5fbcfb7258117e88cb73b45e25c88b01.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/5fbcfb7258117e88cb73b45e25c88b01.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/5fbcfb7258117e88cb73b45e25c88b01.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/8d50a88c82d51e67206bafd191f62d56.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/8d50a88c82d51e67206bafd191f62d56.jpg</image>
     </album>
-    <album rank="25">
-      <name>Fairchildren</name>
+    <album rank="14">
+      <name>Vaccine</name>
       <playcount>8</playcount>
-      <mbid>75a5d62c-3685-409d-bff0-68f69c23ed0e</mbid>
-      <url>https://www.last.fm/music/Ott/Fairchildren</url>
+      <mbid>7da3a7d8-0240-4ebd-bab6-44a1a72504fe</mbid>
+      <url>https://www.last.fm/music/Younger+Brother/Vaccine</url>
       <artist>
-        <name>Ott</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Ott</url>
+        <name>Younger Brother</name>
+        <mbid>22aaf663-732d-4ba7-b409-0722d2b5258b</mbid>
+        <url>https://www.last.fm/music/Younger+Brother</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/e239ee69a1f67ff8ad7595359401c934.png</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/e239ee69a1f67ff8ad7595359401c934.png</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/e239ee69a1f67ff8ad7595359401c934.png</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/e239ee69a1f67ff8ad7595359401c934.png</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/d01d75ab294644b7b1bc4ddc18e71f8f.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/d01d75ab294644b7b1bc4ddc18e71f8f.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/d01d75ab294644b7b1bc4ddc18e71f8f.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/d01d75ab294644b7b1bc4ddc18e71f8f.jpg</image>
     </album>
-    <album rank="26">
-      <name>The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape</name>
+    <album rank="15">
+      <name>Even Tundra</name>
       <playcount>7</playcount>
+      <mbid>735065ae-0f98-45cc-bfe9-21f3f6ee3d85</mbid>
+      <url>https://www.last.fm/music/Benji+Vaughan/Even+Tundra</url>
+      <artist>
+        <name>Benji Vaughan</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Benji+Vaughan</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c65ab92ad9914e6ca777ad59aa55413b.jpg</image>
+    </album>
+    <album rank="16">
+      <name>Nó Na Orelha</name>
+      <playcount>6</playcount>
+      <mbid>1743af7d-5d87-4edf-88a2-72d5d68ea7b7</mbid>
+      <url>https://www.last.fm/music/Criolo/N%C3%B3+Na+Orelha</url>
+      <artist>
+        <name>Criolo</name>
+        <mbid>51af0b6a-083a-4da7-99ee-3a94843269c2</mbid>
+        <url>https://www.last.fm/music/Criolo</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/ac1092c254a1468a90d2d1baffdb6dc4.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/ac1092c254a1468a90d2d1baffdb6dc4.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/ac1092c254a1468a90d2d1baffdb6dc4.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/ac1092c254a1468a90d2d1baffdb6dc4.png</image>
+    </album>
+    <album rank="17">
+      <name>The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape</name>
+      <playcount>5</playcount>
       <mbid>254ff747-2332-4a53-a7b2-8fb17d26c444</mbid>
       <url>https://www.last.fm/music/Arc+De+Soleil/The+Thief+in+Marrakesh+Got+Caught+in+Amsterdam+Trying+to+Escape</url>
       <artist>
@@ -391,249 +256,189 @@
       <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/1a5c644fe9fb2b6f7caaf5a8b4461859.jpg</image>
       <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/1a5c644fe9fb2b6f7caaf5a8b4461859.jpg</image>
     </album>
-    <album rank="27">
-      <name>Skylab II (Ao Vivo)</name>
-      <playcount>7</playcount>
+    <album rank="18">
+      <name>carnaval divinal</name>
+      <playcount>5</playcount>
       <mbid></mbid>
-      <url>https://www.last.fm/music/Rog%C3%A9rio+Skylab/Skylab+II+(Ao+Vivo)</url>
+      <url>https://www.last.fm/music/Bloco+Da+Saudade/carnaval+divinal</url>
       <artist>
-        <name>Rogério Skylab</name>
-        <mbid>84d23ac2-1b9b-4e92-910f-a14c203dad3b</mbid>
-        <url>https://www.last.fm/music/Rog%C3%A9rio+Skylab</url>
+        <name>Bloco Da Saudade</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Bloco+Da+Saudade</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/87d2836bb1395498be61e58a5f894d9c.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/87d2836bb1395498be61e58a5f894d9c.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/87d2836bb1395498be61e58a5f894d9c.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/87d2836bb1395498be61e58a5f894d9c.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/7c0e6f954fff466faa16552131551535.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/7c0e6f954fff466faa16552131551535.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/7c0e6f954fff466faa16552131551535.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/7c0e6f954fff466faa16552131551535.jpg</image>
+    </album>
+    <album rank="19">
+      <name>Como É Que Se Diz Eu Te Amo - Show Completo (Ao Vivo / Vol. 1 &amp; 2)</name>
+      <playcount>4</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Legi%C3%A3o+Urbana/Como+%C3%89+Que+Se+Diz+Eu+Te+Amo+-+Show+Completo+(Ao+Vivo+%2F+Vol.+1+&amp;+2)</url>
+      <artist>
+        <name>Legião Urbana</name>
+        <mbid>47685be0-926f-4be9-b1ae-e32da47a3b99</mbid>
+        <url>https://www.last.fm/music/Legi%C3%A3o+Urbana</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c9cb37cea5912aeccead8e3510a398d7.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c9cb37cea5912aeccead8e3510a398d7.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c9cb37cea5912aeccead8e3510a398d7.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c9cb37cea5912aeccead8e3510a398d7.jpg</image>
+    </album>
+    <album rank="20">
+      <name>Como E Que Se Diz Eu Te Amo (Ao Vivo / Vol. 1)</name>
+      <playcount>4</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Legi%C3%A3o+Urbana/Como+E+Que+Se+Diz+Eu+Te+Amo+(Ao+Vivo+%2F+Vol.+1)</url>
+      <artist>
+        <name>Legião Urbana</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Legi%C3%A3o+Urbana</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/4a1004c6fee512be9f6e15b4c66ad9e9.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/4a1004c6fee512be9f6e15b4c66ad9e9.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/4a1004c6fee512be9f6e15b4c66ad9e9.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/4a1004c6fee512be9f6e15b4c66ad9e9.jpg</image>
+    </album>
+    <album rank="21">
+      <name>The Olympians</name>
+      <playcount>4</playcount>
+      <mbid>5eaa3422-9deb-44f0-bbfb-2e916ba735be</mbid>
+      <url>https://www.last.fm/music/The+Olympians/The+Olympians</url>
+      <artist>
+        <name>The Olympians</name>
+        <mbid>305386be-ef0f-4c62-a2b7-97c3e9e42b15</mbid>
+        <url>https://www.last.fm/music/The+Olympians</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/a297858982c3d3affac8e6abf8d32098.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/a297858982c3d3affac8e6abf8d32098.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/a297858982c3d3affac8e6abf8d32098.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/a297858982c3d3affac8e6abf8d32098.jpg</image>
+    </album>
+    <album rank="22">
+      <name>O inquilino</name>
+      <playcount>4</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Yago+Oproprio/O+inquilino</url>
+      <artist>
+        <name>Yago Oproprio</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Yago+Oproprio</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/daf95d24a894703b71e398944299f4c1.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/daf95d24a894703b71e398944299f4c1.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/daf95d24a894703b71e398944299f4c1.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/daf95d24a894703b71e398944299f4c1.jpg</image>
+    </album>
+    <album rank="23">
+      <name>Questão de Tempo</name>
+      <playcount>4</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Yago+Oproprio/Quest%C3%A3o+de+Tempo</url>
+      <artist>
+        <name>Yago Oproprio</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Yago+Oproprio</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/62b8cf76b955a0d612f924b3e9850d6e.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/62b8cf76b955a0d612f924b3e9850d6e.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/62b8cf76b955a0d612f924b3e9850d6e.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/62b8cf76b955a0d612f924b3e9850d6e.jpg</image>
+    </album>
+    <album rank="24">
+      <name>Convoque Seu Buda</name>
+      <playcount>3</playcount>
+      <mbid>42ab1686-30e4-488c-bb13-7447874dfb02</mbid>
+      <url>https://www.last.fm/music/Criolo/Convoque+Seu+Buda</url>
+      <artist>
+        <name>Criolo</name>
+        <mbid>51af0b6a-083a-4da7-99ee-3a94843269c2</mbid>
+        <url>https://www.last.fm/music/Criolo</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/114dfd58cf604e37ce642eeb576160d9.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/114dfd58cf604e37ce642eeb576160d9.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/114dfd58cf604e37ce642eeb576160d9.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/114dfd58cf604e37ce642eeb576160d9.png</image>
+    </album>
+    <album rank="25">
+      <name>Psychic</name>
+      <playcount>3</playcount>
+      <mbid>873f8153-2758-4f33-8399-5d00e4b9370e</mbid>
+      <url>https://www.last.fm/music/Darkside/Psychic</url>
+      <artist>
+        <name>Darkside</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Darkside</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c2999e1e71ae4ca3cc37e631e07a1820.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c2999e1e71ae4ca3cc37e631e07a1820.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c2999e1e71ae4ca3cc37e631e07a1820.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c2999e1e71ae4ca3cc37e631e07a1820.png</image>
+    </album>
+    <album rank="26">
+      <name>AY COSITA LINDA</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/EF/AY+COSITA+LINDA</url>
+      <artist>
+        <name>EF</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/EF</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/da959b53380232580a37197df1876813.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/da959b53380232580a37197df1876813.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/da959b53380232580a37197df1876813.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/da959b53380232580a37197df1876813.jpg</image>
+    </album>
+    <album rank="27">
+      <name>Desert Phase</name>
+      <playcount>3</playcount>
+      <mbid>2963f57f-1ce1-4f41-b3cc-ff4c6a9d7a92</mbid>
+      <url>https://www.last.fm/music/Kaya+Project/Desert+Phase</url>
+      <artist>
+        <name>Kaya Project</name>
+        <mbid>f2a5a441-bc7a-43c3-bdbe-c6c4c8010c48</mbid>
+        <url>https://www.last.fm/music/Kaya+Project</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/deabec5ef4b94c20b8845186b700eec1.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/deabec5ef4b94c20b8845186b700eec1.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/deabec5ef4b94c20b8845186b700eec1.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/deabec5ef4b94c20b8845186b700eec1.jpg</image>
     </album>
     <album rank="28">
-      <name>Little Electric Chicken Heart</name>
-      <playcount>6</playcount>
-      <mbid>01c747e7-0cab-4345-99fa-34c114b6a926</mbid>
-      <url>https://www.last.fm/music/Ana+Frango+El%C3%A9trico/Little+Electric+Chicken+Heart</url>
+      <name>São Paulo Motoboy</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Manu+Chao/S%C3%A3o+Paulo+Motoboy</url>
       <artist>
-        <name>Ana Frango Elétrico</name>
-        <mbid>cd8086e3-9249-4d5a-a3a0-a20731c98653</mbid>
-        <url>https://www.last.fm/music/Ana+Frango+El%C3%A9trico</url>
+        <name>Manu Chao</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Manu+Chao</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/e4c119eee7eae91a79c93c488a58c687.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/e4c119eee7eae91a79c93c488a58c687.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/e4c119eee7eae91a79c93c488a58c687.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/e4c119eee7eae91a79c93c488a58c687.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/9a69876cc3aad6a01d9c72290444db3b.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/9a69876cc3aad6a01d9c72290444db3b.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/9a69876cc3aad6a01d9c72290444db3b.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/9a69876cc3aad6a01d9c72290444db3b.jpg</image>
     </album>
     <album rank="29">
-      <name>Cartola (1974)</name>
-      <playcount>6</playcount>
+      <name>Cazá, Cazá - Sport Recife</name>
+      <playcount>3</playcount>
       <mbid></mbid>
-      <url>https://www.last.fm/music/Cartola/Cartola+(1974)</url>
+      <url>https://www.last.fm/music/Matol%C3%A3o/Caz%C3%A1,+Caz%C3%A1+-+Sport+Recife</url>
       <artist>
-        <name>Cartola</name>
-        <mbid>7c743881-aed4-47d4-93d5-9fdd6e2904bb</mbid>
-        <url>https://www.last.fm/music/Cartola</url>
+        <name>Matolão</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Matol%C3%A3o</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/ec19255ea88d758d545098b545a4400b.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/ec19255ea88d758d545098b545a4400b.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/ec19255ea88d758d545098b545a4400b.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/ec19255ea88d758d545098b545a4400b.jpg</image>
+      <image size="small"></image>
+      <image size="medium"></image>
+      <image size="large"></image>
+      <image size="extralarge"></image>
     </album>
     <album rank="30">
-      <name>Di Melo</name>
-      <playcount>6</playcount>
-      <mbid>81c3325b-2798-4d38-a8d9-ab54fe1681e7</mbid>
-      <url>https://www.last.fm/music/Di+Melo/Di+Melo</url>
-      <artist>
-        <name>Di Melo</name>
-        <mbid>06f60a76-ffe5-44b8-b78b-2455e3850f0c</mbid>
-        <url>https://www.last.fm/music/Di+Melo</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/6c3678b3c042b251789c0dc412e84e71.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/6c3678b3c042b251789c0dc412e84e71.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/6c3678b3c042b251789c0dc412e84e71.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/6c3678b3c042b251789c0dc412e84e71.jpg</image>
-    </album>
-    <album rank="31">
-      <name>May Ninth</name>
-      <playcount>6</playcount>
-      <mbid>0d405dda-777f-44c4-939a-3e6ab432cbdb</mbid>
-      <url>https://www.last.fm/music/Khruangbin/May+Ninth</url>
-      <artist>
-        <name>Khruangbin</name>
-        <mbid>aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634</mbid>
-        <url>https://www.last.fm/music/Khruangbin</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/6ea17d3b9e3ca0034c9eb9fd546236c0.png</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/6ea17d3b9e3ca0034c9eb9fd546236c0.png</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/6ea17d3b9e3ca0034c9eb9fd546236c0.png</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/6ea17d3b9e3ca0034c9eb9fd546236c0.png</image>
-    </album>
-    <album rank="32">
-      <name>Spike</name>
-      <playcount>6</playcount>
-      <mbid>39504b50-26ce-4257-89fe-9c224279e230</mbid>
-      <url>https://www.last.fm/music/Prometheus/Spike</url>
-      <artist>
-        <name>Prometheus</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Prometheus</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/9024d7b3e14144dba304b361de942650.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/9024d7b3e14144dba304b361de942650.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/9024d7b3e14144dba304b361de942650.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/9024d7b3e14144dba304b361de942650.jpg</image>
-    </album>
-    <album rank="33">
-      <name>That Much Closer to the Sun</name>
-      <playcount>5</playcount>
-      <mbid>6844c769-824f-4bd4-853a-ef931603feed</mbid>
-      <url>https://www.last.fm/music/Abakus/That+Much+Closer+to+the+Sun</url>
-      <artist>
-        <name>Abakus</name>
-        <mbid>a8b39181-6939-451e-9641-2db231b73706</mbid>
-        <url>https://www.last.fm/music/Abakus</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/483ebb283b2e48ae81998d7354e80830.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/483ebb283b2e48ae81998d7354e80830.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/483ebb283b2e48ae81998d7354e80830.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/483ebb283b2e48ae81998d7354e80830.jpg</image>
-    </album>
-    <album rank="34">
-      <name>Carnaval Chanson</name>
-      <playcount>5</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Banda+Eddie/Carnaval+Chanson</url>
-      <artist>
-        <name>Banda Eddie</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Banda+Eddie</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/6d9f8b31135b42167f37c06569f7e15b.png</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/6d9f8b31135b42167f37c06569f7e15b.png</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/6d9f8b31135b42167f37c06569f7e15b.png</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/6d9f8b31135b42167f37c06569f7e15b.png</image>
-    </album>
-    <album rank="35">
-      <name>Fractal World</name>
-      <playcount>5</playcount>
-      <mbid>83713fd9-ff38-4fd6-b8cc-611d67207ab3</mbid>
-      <url>https://www.last.fm/music/Krusseldorf/Fractal+World</url>
-      <artist>
-        <name>Krusseldorf</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Krusseldorf</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/07798ad9143a4468c476e375e862ba4c.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/07798ad9143a4468c476e375e862ba4c.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/07798ad9143a4468c476e375e862ba4c.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/07798ad9143a4468c476e375e862ba4c.jpg</image>
-    </album>
-    <album rank="36">
-      <name>Ugly is Beautiful</name>
-      <playcount>5</playcount>
-      <mbid>4d230016-848c-4157-9d07-4862e52c19b1</mbid>
-      <url>https://www.last.fm/music/Oliver+Tree/Ugly+is+Beautiful</url>
-      <artist>
-        <name>Oliver Tree</name>
-        <mbid>1fa3bded-908f-47be-9784-3c9ef850682b</mbid>
-        <url>https://www.last.fm/music/Oliver+Tree</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/7771d707e0ac83c2b3b1fc85787ac7fc.png</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/7771d707e0ac83c2b3b1fc85787ac7fc.png</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/7771d707e0ac83c2b3b1fc85787ac7fc.png</image>
-    </album>
-    <album rank="37">
-      <name>Space The Demos</name>
-      <playcount>4</playcount>
-      <mbid>05550949-5ad4-4ae7-86ee-aa0241162f15</mbid>
-      <url>https://www.last.fm/music/All+India+Radio/Space+The+Demos</url>
-      <artist>
-        <name>All India Radio</name>
-        <mbid>53d2a4d1-556e-4701-a8ac-5fcb74a8e393</mbid>
-        <url>https://www.last.fm/music/All+India+Radio</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/4c7b14617c9678d00a62b7591aaa476a.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/4c7b14617c9678d00a62b7591aaa476a.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/4c7b14617c9678d00a62b7591aaa476a.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/4c7b14617c9678d00a62b7591aaa476a.jpg</image>
-    </album>
-    <album rank="38">
-      <name>Lonely Calling</name>
-      <playcount>4</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Arc+De+Soleil/Lonely+Calling</url>
-      <artist>
-        <name>Arc De Soleil</name>
-        <mbid>140bd83c-475b-4eb3-bf82-27ff4dc92abc</mbid>
-        <url>https://www.last.fm/music/Arc+De+Soleil</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/50ad9cf9520a979341041b15fba0192f.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/50ad9cf9520a979341041b15fba0192f.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/50ad9cf9520a979341041b15fba0192f.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/50ad9cf9520a979341041b15fba0192f.jpg</image>
-    </album>
-    <album rank="39">
-      <name>Beets Vol. I</name>
-      <playcount>4</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Ciao+Ciao+Marigold/Beets+Vol.+I</url>
-      <artist>
-        <name>Ciao Ciao Marigold</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Ciao+Ciao+Marigold</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/118aeb9aef6dedf1d23288657b70037b.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/118aeb9aef6dedf1d23288657b70037b.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/118aeb9aef6dedf1d23288657b70037b.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/118aeb9aef6dedf1d23288657b70037b.jpg</image>
-    </album>
-    <album rank="40">
-      <name>Golpe de Vista</name>
-      <playcount>4</playcount>
-      <mbid></mbid>
-      <url>https://www.last.fm/music/Douglas+Germano/Golpe+de+Vista</url>
-      <artist>
-        <name>Douglas Germano</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Douglas+Germano</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/decce414ca03a9d883e0e363df2cee97.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/decce414ca03a9d883e0e363df2cee97.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/decce414ca03a9d883e0e363df2cee97.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/decce414ca03a9d883e0e363df2cee97.jpg</image>
-    </album>
-    <album rank="41">
-      <name>Hoy Como Ayer</name>
-      <playcount>4</playcount>
-      <mbid>1cc54035-1981-4cf1-939c-366b22521c3e</mbid>
-      <url>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez/Hoy+Como+Ayer</url>
-      <artist>
-        <name>Hermanos Gutiérrez</name>
-        <mbid></mbid>
-        <url>https://www.last.fm/music/Hermanos+Guti%C3%A9rrez</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/827a23f3b188d82cb694b7fb7fbe50b2.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/827a23f3b188d82cb694b7fb7fbe50b2.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/827a23f3b188d82cb694b7fb7fbe50b2.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/827a23f3b188d82cb694b7fb7fbe50b2.jpg</image>
-    </album>
-    <album rank="42">
-      <name>The Exciting Sounds of Menahan Street Band</name>
-      <playcount>4</playcount>
-      <mbid>99ba5773-357a-48bf-971e-b50a98b9be11</mbid>
-      <url>https://www.last.fm/music/Menahan+Street+Band/The+Exciting+Sounds+of+Menahan+Street+Band</url>
-      <artist>
-        <name>Menahan Street Band</name>
-        <mbid>93da8c8a-bd13-4418-a00e-2861b8518a8d</mbid>
-        <url>https://www.last.fm/music/Menahan+Street+Band</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/251e0936c29a2172fb1094226b1bbf8c.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/251e0936c29a2172fb1094226b1bbf8c.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/251e0936c29a2172fb1094226b1bbf8c.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/251e0936c29a2172fb1094226b1bbf8c.jpg</image>
-    </album>
-    <album rank="43">
       <name>Surfari</name>
-      <playcount>4</playcount>
+      <playcount>3</playcount>
       <mbid></mbid>
       <url>https://www.last.fm/music/Offthewally/Surfari</url>
       <artist>
@@ -646,80 +451,275 @@
       <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/9cc8dcd04ef32868490d68e3aae8731b.jpg</image>
       <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/9cc8dcd04ef32868490d68e3aae8731b.jpg</image>
     </album>
-    <album rank="44">
-      <name>Shapes</name>
-      <playcount>4</playcount>
-      <mbid>aa5a2858-286d-4948-b86c-6c6c3b276f7d</mbid>
-      <url>https://www.last.fm/music/Robohands/Shapes</url>
-      <artist>
-        <name>Robohands</name>
-        <mbid>ccf9b52e-27f3-4737-baa1-7234df105c61</mbid>
-        <url>https://www.last.fm/music/Robohands</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/c63a4f6a4b21c1c8dbb55cc061d6d34e.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/c63a4f6a4b21c1c8dbb55cc061d6d34e.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/c63a4f6a4b21c1c8dbb55cc061d6d34e.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/c63a4f6a4b21c1c8dbb55cc061d6d34e.jpg</image>
-    </album>
-    <album rank="45">
-      <name>A Flock of Bleeps</name>
-      <playcount>4</playcount>
-      <mbid>7b934e84-7898-4250-9ee2-c9bed1b4d2a5</mbid>
-      <url>https://www.last.fm/music/Younger+Brother/A+Flock+of+Bleeps</url>
-      <artist>
-        <name>Younger Brother</name>
-        <mbid>22aaf663-732d-4ba7-b409-0722d2b5258b</mbid>
-        <url>https://www.last.fm/music/Younger+Brother</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/8de4b1d2266844778465819a406ab190.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/8de4b1d2266844778465819a406ab190.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/8de4b1d2266844778465819a406ab190.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/8de4b1d2266844778465819a406ab190.jpg</image>
-    </album>
-    <album rank="46">
-      <name>Libertalia</name>
-      <playcount>3</playcount>
-      <mbid>496ca44a-6ae9-4b66-b069-e9420998627e</mbid>
-      <url>https://www.last.fm/music/Arc+De+Soleil/Libertalia</url>
-      <artist>
-        <name>Arc De Soleil</name>
-        <mbid>140bd83c-475b-4eb3-bf82-27ff4dc92abc</mbid>
-        <url>https://www.last.fm/music/Arc+De+Soleil</url>
-      </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/b4107b4e3ba82650fee3b9f33cc3eedf.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/b4107b4e3ba82650fee3b9f33cc3eedf.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/b4107b4e3ba82650fee3b9f33cc3eedf.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/b4107b4e3ba82650fee3b9f33cc3eedf.jpg</image>
-    </album>
-    <album rank="47">
-      <name>Halves of a Whole</name>
+    <album rank="31">
+      <name>Autodomínio</name>
       <playcount>3</playcount>
       <mbid></mbid>
-      <url>https://www.last.fm/music/Cherry+Pit/Halves+of+a+Whole</url>
+      <url>https://www.last.fm/music/pumapjl/Autodom%C3%ADnio</url>
       <artist>
-        <name>Cherry Pit</name>
+        <name>pumapjl</name>
         <mbid></mbid>
-        <url>https://www.last.fm/music/Cherry+Pit</url>
+        <url>https://www.last.fm/music/pumapjl</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/f861b7328638d91ebb8038fd05d70f74.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/f861b7328638d91ebb8038fd05d70f74.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/f861b7328638d91ebb8038fd05d70f74.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/f861b7328638d91ebb8038fd05d70f74.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/dc8bd04a8ba60eb5d6da0b8b08782592.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/dc8bd04a8ba60eb5d6da0b8b08782592.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/dc8bd04a8ba60eb5d6da0b8b08782592.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/dc8bd04a8ba60eb5d6da0b8b08782592.jpg</image>
+    </album>
+    <album rank="32">
+      <name>Racionais 3 Décadas</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Racionais+MC%27s/Racionais+3+D%C3%A9cadas</url>
+      <artist>
+        <name>Racionais MC&apos;s</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Racionais+MC%27s</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/6e217b81819cc16d7dda5baad2c92ad0.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/6e217b81819cc16d7dda5baad2c92ad0.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/6e217b81819cc16d7dda5baad2c92ad0.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/6e217b81819cc16d7dda5baad2c92ad0.jpg</image>
+    </album>
+    <album rank="33">
+      <name>Sobrevivendo no Inferno</name>
+      <playcount>3</playcount>
+      <mbid>e7e902d4-a2e1-4bb6-9b92-694f0676ca0b</mbid>
+      <url>https://www.last.fm/music/Racionais+MC%27s/Sobrevivendo+no+Inferno</url>
+      <artist>
+        <name>Racionais MC&apos;s</name>
+        <mbid>96351496-268f-4ef2-8f7d-768cffdef190</mbid>
+        <url>https://www.last.fm/music/Racionais+MC%27s</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/a0d4f30850c5cd064c456ad5f8151f03.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/a0d4f30850c5cd064c456ad5f8151f03.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/a0d4f30850c5cd064c456ad5f8151f03.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/a0d4f30850c5cd064c456ad5f8151f03.png</image>
+    </album>
+    <album rank="34">
+      <name>Psiu</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/R%C3%B4+Rosa/Psiu</url>
+      <artist>
+        <name>Rô Rosa</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/R%C3%B4+Rosa</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/4afb192a952193d5f40a286eab551147.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/4afb192a952193d5f40a286eab551147.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/4afb192a952193d5f40a286eab551147.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/4afb192a952193d5f40a286eab551147.jpg</image>
+    </album>
+    <album rank="35">
+      <name>Nothing Lasts...but Nothing Is Lost (Remastered, 2019)</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Shpongle/Nothing+Lasts...but+Nothing+Is+Lost+(Remastered,+2019)</url>
+      <artist>
+        <name>Shpongle</name>
+        <mbid>ffe9ec08-6b6b-4993-9394-e280b429dbfd</mbid>
+        <url>https://www.last.fm/music/Shpongle</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/d16f078e1b42cc98f4294730fe224bf4.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/d16f078e1b42cc98f4294730fe224bf4.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/d16f078e1b42cc98f4294730fe224bf4.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/d16f078e1b42cc98f4294730fe224bf4.jpg</image>
+    </album>
+    <album rank="36">
+      <name>Carrie</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Ugovhb/Carrie</url>
+      <artist>
+        <name>Ugovhb</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Ugovhb</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/2facdf1b6e30e629d43dea2f07884519.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/2facdf1b6e30e629d43dea2f07884519.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/2facdf1b6e30e629d43dea2f07884519.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/2facdf1b6e30e629d43dea2f07884519.png</image>
+    </album>
+    <album rank="37">
+      <name>20 Super Sucessos: Grandes Carnavais</name>
+      <playcount>3</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Various+Artists/20+Super+Sucessos:+Grandes+Carnavais</url>
+      <artist>
+        <name>Various Artists</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Various+Artists</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/31e89699e8b93fd30c55b71f2e665e9f.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/31e89699e8b93fd30c55b71f2e665e9f.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/31e89699e8b93fd30c55b71f2e665e9f.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/31e89699e8b93fd30c55b71f2e665e9f.jpg</image>
+    </album>
+    <album rank="38">
+      <name>That Much Closer to the Sun</name>
+      <playcount>2</playcount>
+      <mbid>6844c769-824f-4bd4-853a-ef931603feed</mbid>
+      <url>https://www.last.fm/music/Abakus/That+Much+Closer+to+the+Sun</url>
+      <artist>
+        <name>Abakus</name>
+        <mbid>a8b39181-6939-451e-9641-2db231b73706</mbid>
+        <url>https://www.last.fm/music/Abakus</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/483ebb283b2e48ae81998d7354e80830.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/483ebb283b2e48ae81998d7354e80830.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/483ebb283b2e48ae81998d7354e80830.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/483ebb283b2e48ae81998d7354e80830.jpg</image>
+    </album>
+    <album rank="39">
+      <name>Dimanche à Bamako</name>
+      <playcount>2</playcount>
+      <mbid>34ba7cab-c28a-3357-a4d7-66364636aed6</mbid>
+      <url>https://www.last.fm/music/Amadou+&amp;+Mariam/Dimanche+%C3%A0+Bamako</url>
+      <artist>
+        <name>Amadou &amp; Mariam</name>
+        <mbid>1fb60b6c-0f4d-42b4-8a5e-de705ec76660</mbid>
+        <url>https://www.last.fm/music/Amadou+&amp;+Mariam</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/dfc081ead819053e20e4501a7b4eeb07.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/dfc081ead819053e20e4501a7b4eeb07.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/dfc081ead819053e20e4501a7b4eeb07.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/dfc081ead819053e20e4501a7b4eeb07.png</image>
+    </album>
+    <album rank="40">
+      <name>Windowlicker</name>
+      <playcount>2</playcount>
+      <mbid>0a25ae72-8a79-37f4-a697-591f4364e0ab</mbid>
+      <url>https://www.last.fm/music/Aphex+Twin/Windowlicker</url>
+      <artist>
+        <name>Aphex Twin</name>
+        <mbid>f22942a1-6f70-4f48-866e-238cb2308fbd</mbid>
+        <url>https://www.last.fm/music/Aphex+Twin</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/5f7672bfc3b25879e26d6e588cc88534.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/5f7672bfc3b25879e26d6e588cc88534.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/5f7672bfc3b25879e26d6e588cc88534.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/5f7672bfc3b25879e26d6e588cc88534.jpg</image>
+    </album>
+    <album rank="41">
+      <name>Hinos dos Clubes - Futebol Brasileiro</name>
+      <playcount>2</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Banda+Talmo/Hinos+dos+Clubes+-+Futebol+Brasileiro</url>
+      <artist>
+        <name>Banda Talmo</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Banda+Talmo</url>
+      </artist>
+      <image size="small"></image>
+      <image size="medium"></image>
+      <image size="large"></image>
+      <image size="extralarge"></image>
+    </album>
+    <album rank="42">
+      <name>Abaixo de Zero: Hello Hell</name>
+      <playcount>2</playcount>
+      <mbid>b8e68a6c-80f5-422d-9da8-67dd46f96242</mbid>
+      <url>https://www.last.fm/music/Black+Alien/Abaixo+de+Zero:+Hello+Hell</url>
+      <artist>
+        <name>Black Alien</name>
+        <mbid>46a7b248-112e-4e62-bc32-aeea5029f53b</mbid>
+        <url>https://www.last.fm/music/Black+Alien</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/5126cbda4a269f09f70f207f4c7f1cdc.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/5126cbda4a269f09f70f207f4c7f1cdc.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/5126cbda4a269f09f70f207f4c7f1cdc.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/5126cbda4a269f09f70f207f4c7f1cdc.jpg</image>
+    </album>
+    <album rank="43">
+      <name>Discovery</name>
+      <playcount>2</playcount>
+      <mbid>098060d4-ba3c-469d-88b0-08642261c7ab</mbid>
+      <url>https://www.last.fm/music/Daft+Punk/Discovery</url>
+      <artist>
+        <name>Daft Punk</name>
+        <mbid>056e4f3e-d505-4dad-8ec1-d04f521cbb56</mbid>
+        <url>https://www.last.fm/music/Daft+Punk</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/1340e9e1082cf0dc748583b7eefce6d5.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/1340e9e1082cf0dc748583b7eefce6d5.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/1340e9e1082cf0dc748583b7eefce6d5.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/1340e9e1082cf0dc748583b7eefce6d5.jpg</image>
+    </album>
+    <album rank="44">
+      <name>Baile Do Brazil</name>
+      <playcount>2</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Dragon+Boys/Baile+Do+Brazil</url>
+      <artist>
+        <name>Dragon Boys</name>
+        <mbid></mbid>
+        <url>https://www.last.fm/music/Dragon+Boys</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/ea00d9d1d095da51be48846ef43a0c4a.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/ea00d9d1d095da51be48846ef43a0c4a.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/ea00d9d1d095da51be48846ef43a0c4a.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/ea00d9d1d095da51be48846ef43a0c4a.jpg</image>
+    </album>
+    <album rank="45">
+      <name>Beatz &amp; Pieces, Vol. 1</name>
+      <playcount>2</playcount>
+      <mbid></mbid>
+      <url>https://www.last.fm/music/Gramatik/Beatz+&amp;+Pieces,+Vol.+1</url>
+      <artist>
+        <name>Gramatik</name>
+        <mbid>9b62a8a3-fcd5-4b51-a970-0f08a440ed6d</mbid>
+        <url>https://www.last.fm/music/Gramatik</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/bde81566fe1b476fc7bbe4647dfd11a9.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/bde81566fe1b476fc7bbe4647dfd11a9.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/bde81566fe1b476fc7bbe4647dfd11a9.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/bde81566fe1b476fc7bbe4647dfd11a9.jpg</image>
+    </album>
+    <album rank="46">
+      <name>The Infamous Bill</name>
+      <playcount>2</playcount>
+      <mbid>b553d6d8-fe5f-4984-87d5-959a775aa41b</mbid>
+      <url>https://www.last.fm/music/Khruangbin/The+Infamous+Bill</url>
+      <artist>
+        <name>Khruangbin</name>
+        <mbid>aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634</mbid>
+        <url>https://www.last.fm/music/Khruangbin</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/aef480f2819a4e2bce31d36d781ecd83.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/aef480f2819a4e2bce31d36d781ecd83.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/aef480f2819a4e2bce31d36d781ecd83.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/aef480f2819a4e2bce31d36d781ecd83.jpg</image>
+    </album>
+    <album rank="47">
+      <name>Playground</name>
+      <playcount>2</playcount>
+      <mbid>cc13f445-0fc6-4e8c-abf9-7bf54518fdd7</mbid>
+      <url>https://www.last.fm/music/Laura+Misch/Playground</url>
+      <artist>
+        <name>Laura Misch</name>
+        <mbid>17313a0f-75f3-4c72-bcd0-31972147e0f6</mbid>
+        <url>https://www.last.fm/music/Laura+Misch</url>
+      </artist>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/d949ab1a40d8261e3d7e8d61ca9c4f17.jpg</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/d949ab1a40d8261e3d7e8d61ca9c4f17.jpg</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/d949ab1a40d8261e3d7e8d61ca9c4f17.jpg</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/d949ab1a40d8261e3d7e8d61ca9c4f17.jpg</image>
     </album>
     <album rank="48">
-      <name>Yellow</name>
-      <playcount>3</playcount>
-      <mbid>157c3d31-3977-45fb-a70f-1b4eed779345</mbid>
-      <url>https://www.last.fm/music/Coldplay/Yellow</url>
+      <name>As Quatro Estações</name>
+      <playcount>2</playcount>
+      <mbid>2f5e834a-e37b-4644-b5e2-69dad3352c1b</mbid>
+      <url>https://www.last.fm/music/Legi%C3%A3o+Urbana/As+Quatro+Esta%C3%A7%C3%B5es</url>
       <artist>
-        <name>Coldplay</name>
-        <mbid>cc197bad-dc9c-440d-a5b5-d52ba2e14234</mbid>
-        <url>https://www.last.fm/music/Coldplay</url>
+        <name>Legião Urbana</name>
+        <mbid>47685be0-926f-4be9-b1ae-e32da47a3b99</mbid>
+        <url>https://www.last.fm/music/Legi%C3%A3o+Urbana</url>
       </artist>
-      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/646ccd36b0804e34a38ea5df5d9e4e4d.jpg</image>
-      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/646ccd36b0804e34a38ea5df5d9e4e4d.jpg</image>
-      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/646ccd36b0804e34a38ea5df5d9e4e4d.jpg</image>
-      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/646ccd36b0804e34a38ea5df5d9e4e4d.jpg</image>
+      <image size="small">https://lastfm.freetls.fastly.net/i/u/34s/383d3d12378f41a6a4777e1487549f99.png</image>
+      <image size="medium">https://lastfm.freetls.fastly.net/i/u/64s/383d3d12378f41a6a4777e1487549f99.png</image>
+      <image size="large">https://lastfm.freetls.fastly.net/i/u/174s/383d3d12378f41a6a4777e1487549f99.png</image>
+      <image size="extralarge">https://lastfm.freetls.fastly.net/i/u/300x300/383d3d12378f41a6a4777e1487549f99.png</image>
     </album>
   </topalbums>
 </lfm>

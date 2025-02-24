@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<head>
+<title>Towards the identification of money laundering in bank transactions using Recurrent Neural Networks | marcos oliveira | computational social science - complex systems - urban science - crime science - swarm intelligence | marcosoliveira.info</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="marcos oliveira | marcos oliveira | computational social science - complex systems - urban science - crime science - swarm intelligence | marcosoliveira.info" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://marcosoliveira.info/" />
+<meta property="og:title" content="marcos oliveira | marcos oliveira | computational social science - complex systems - urban science - crime science - swarm intelligence | marcosoliveira.info" />
+<meta property="og:description" content="Marcos Oliveira's home page" />
+<!-- <meta property="og:updated_time" content="20-01-15T17:05:48-05:00" /> -->
+<meta name="description" content="Marcos Oliveira's home page" />
+<link rel="shortcut icon" type="image/x-icon" href="/figures/favicon.png">
+<!-- <script language="javascript" type="text/javascript">
+    function showHide(shID) {
+       if (document.getElementById(shID)) {
+          if (document.getElementById(shID+'-show').style.display != 'none') {
+             document.getElementById(shID+'-show').style.display = 'none';
+             document.getElementById(shID).style.display = 'block';
+          }
+          else {
+             document.getElementById(shID+'-show').style.display = 'inline';
+             document.getElementById(shID).style.display = 'none';
+          }
+       }
+    }
+    // this is not shared with google
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    if (window.location.hostname == "marcosoliveira.info") {
+      ga('create', 'UA-91210534-1', 'auto');
+    } else {
+      ga('create', 'UA-91150895-1', 'auto');
+    }
+    ga('send', 'pageview');
+</script> -->
+<!--
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101307570);</script>
+<script async src="//static.getclicky.com/js"></script> -->
+
+<!-- <script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(arguments)};
+  d=s.createElement(q);d.src='//d1l6p2sc9645hc.cloudfront.net/gosquared.js';q=
+  s.getElementsByTagName(q)[0];q.parentNode.insertBefore(d,q)}(window,document
+  ,'script','_gs');
+  // _gs('GSN-956154-C');
+</script> -->
+
+<link rel="stylesheet" type="text/css" href=/css.css>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Money laundering has a significant impact on both society and the economy, costing up to 2 trillion dollars of the global gross domestic product. Detecting m...">
+<meta name="author" content="">
+<meta name="generator" content="Jekyll v4.3.2">
+<link rel="canonical" href="http://localhost:4000/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html">
+<!-- <link rel="stylesheet" href="/assets/css/index.css"> -->
+<!-- <link rel="stylesheet" href="/assets/css/classes.css"> -->
+<!-- <link rel="stylesheet" href="/assets/css/default.css"> -->
+<link rel="alternate" type="application/atom+xml" href="/feed.xml" title="marcos oliveira | computational social science - complex systems - urban science - crime science - swarm intelligence | marcosoliveira.info" />
+
+
+
+
+</head>
+
+<header>
+
+  <div class="wrapperh">
+    <a href="/"><h1 style="font-family: Miller,Georgia,serif; font-size: 3rem; line-height: 5.75rem;
+color: #ffffff; font-weight: normal;">marcos oliveira</h1></a>
+  </div>
+</header>
+<section id="email">
+  <div class="wrapper">
+    <div class="wwrapper">
+      moliveira<img src="/figures/at_sign.svg" width=10 height=10>tuta.io
+    </div>
+  </div>
+</section>
+
+<div class="wrapper">
+  <div class="wwrapper">
+
+  <article>
+    <!-- <header> --><a href="/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html" class="post_title">Towards the identification of money laundering in bank transactions using Recurrent Neural Networks</a><br>
+      <a href="/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html" class="post_date"><time datetime="2025-02-24T18:03:00+00:00">February 24, 2025</time></a><br><br>
+    <!-- </header> -->
+    <a href="/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html" class="post_author">Isadora Xavier, Edvaldo Veiga, Andrea Maria NC Ribeiro, Rodrigo de Paula Monteiro, Marcos Oliveira, Rodrigo Amaro, and Diego Pinheiro</a><br><br>
+
+    <div class="post">     <font class="news" style="font-weight: bold;">Abstract</font>
+
+      <p>Money laundering has a significant impact on both society and the economy, costing up to 2 trillion dollars of the global gross domestic product. Detecting money laundering involves analyzing banking data to identify its occurrence and its typologies, such as the typology I-d (i.e., fragmenting cash transfers to disguise the total value). The state-of-the-art detection methods can estimate the probability of classifying a client as suspicious based on financial reports, but they fail to identify specific typologies in a large volume of banking transactions and do not determine which transaction groups contribute to identifying a particular money laundering typology pattern. In this work, we propose automating the identification of money laundering typologies using banking transaction data represented as multiple time series. We use anonymized data provided from the Civil Police of the State of Pernambuco, Brazil, and trained recurrent neural network models to identify typology I-d in the data. The models include SimpleRNN, LSTM, and GRU. Our results show that LSTM and GRU models achieved the highest AUC-ROCs of 0.75 (0.74, 0.76). Our work demonstrates the potential for developing an automated tool to assist in identifying I-d typology, suggesting future work may focus on identifying other typologies and training models using different neural architectures.</p>
+<br>
+
+      <a href="/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html" class="post_author">2024 IEEE Latin American Conference on Computational Intelligence (LA-CCI), Bogota., Colombia. 2024.</a><br>
+
+      
+
+      
+
+
+      <br><a href="http://dx.doi.org/10.1109/LA-CCI62337.2024.10814854" class="post_link">[Link to publication]</a>
+      <br><br><br><br>
+
+    </div>
+    
+    
+  </article>
+  
+</div>
+</div>
+
+
+<script language="javascript" type="text/javascript">
+  document.write("<object data=https://server.marcosoliveira.info/include.php?location=/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html&referrer=\""+ document.referrer + "\" width=10 height=10 type=\"text\/html\"> </object>");
+</script>
+<noscript>
+  <object data="https://server.marcosoliveira.info/include.php?location=/2025/02/24/towards-the-identification-of-money-laundering-in-bank-transactions-using-recurrent-neural-networks.html" width="10" height="10" type="text/html"> </object>
+</noscript>

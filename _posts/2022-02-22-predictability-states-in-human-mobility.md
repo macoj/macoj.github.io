@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Predictability states in human mobility
-date: 2022-02-22 23:15 +0100
-type: preprint
-authors: Diogo Pacheco, Marcos Oliveira, Zexun Chen, Hugo Barbosa, Brooke Foucault-Welles, Gourab Ghoshal, and Ronaldo Menezes
-where: "arXiv (2022). "
-doi_link: ''
+title: Dynamic predictability and activity-location contexts in human mobility
+date: 2025-02-24 18:21 +0000
+authors: Bibandhan Poudyal, Diogo Pacheco, Marcos Oliveira, Zexun Chen, Hugo S Barbosa, Ronaldo Menezes, and Gourab Ghoshal
 arxiv_link: 'https://arxiv.org/abs/2201.01376'
+type: journal
+where: "Royal Society Open Science 11, 9 (2024). "
+doi_link: 'https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240115'
+arxiv_link: 'http://arxiv.org/abs/2106.11688'
 paper_download: ''
 ---
- Spatio-temporal constraints coupled with social constructs have the potential to create fluid predictability to human mobility patterns. Accordingly, predictability in human mobility is non-monotonic and varies according to this spatio-socio-temporal context. Here, we propose that the predictability in human mobility is a state and not a static trait of individuals. First, we show that time (of the week) explains people's whereabouts more than the sequences of locations they visit. Then, we show that not only does predictability depend on time but also the type of activity an individual is engaged in, thus establishing the importance of contexts in human mobility.
+Human travelling behaviours are markedly regular, to a large extent predictable, and mostly driven by biological necessities and social constructs. Not surprisingly, such predictability is influenced by an array of factors ranging in scale from individual preferences and choices, through social groups and households, all the way to the global scale, such as mobility restrictions in response to external shocks such as pandemics. In this work, we explore how temporal, activity and location variations in individual-level mobility—referred to as predictability states—carry a large degree of information regarding the nature of mobility regularities at the population level. Our findings indicate the existence of contextual and activity signatures in predictability states, suggesting the potential for a more nuanced approach to estimating both short-term and higher-order mobility predictions. The existence of location contexts, in particular, serves as a parsimonious estimator for predictability patterns even in the case of low resolution and missing data.
