@@ -145,7 +145,7 @@ p.desc {
 p.researchdesc {
   font-size: 0.9rem;
   line-height: 1.2rem;
-  text-align: justify;
+  text-align: left;
 
 }
 
