@@ -1,14 +1,14 @@
 source "https://rubygems.org"
 
-gem "jekyll"#, "~> 4.0.0"
+ruby "~> 3.3"
 
-gem "minima"#, "~> 2.0"
+gem "jekyll", ">= 4.3.3", "< 4.5"
+gem "minima", "~> 2.5"
+gem "jekyll-feed", "~> 0.17"
+gem "jekyll-compose", "~> 0.12"
 
-# gem "kramdown", "~> 2.3.1"
+# If you ever jump to Ruby 3.4+, uncomment:
+# gem "csv"
+# gem "base64"
 
-group :jekyll_plugins do
-   gem "jekyll-feed"
-end
 
-#gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'jekyll-compose', group: [:jekyll_plugins]
