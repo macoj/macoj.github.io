@@ -16,7 +16,7 @@ a.ghost:hover {
 }
 
 a.gray, a.disabled {
-  background: rgba(148, 148, 148, 0.08);
+  background: rgba(147.5, 147.5, 147.5, 0.08);
   transition: background, 0.2s;
 }
 
@@ -25,7 +25,7 @@ a.gray:hover, a.disabled:hover {
 }
 
 a.gray:hover {
-  background: rgba(148, 148, 148, 0.2);
+  background: rgba(147.5, 147.5, 147.5, 0.2);
 }
 
 body > header, article, body > footer {
@@ -33,16 +33,16 @@ body > header, article, body > footer {
 }
 
 article, body > footer {
-  border-top: 1px solid rgba(148, 148, 148, 0.08);
+  border-top: 1px solid rgba(147.5, 147.5, 147.5, 0.08);
 }
 
 article {
-  background: rgba(148, 148, 148, 0.02);
+  background: rgba(147.5, 147.5, 147.5, 0.02);
 }
 
 body > footer {
-  background: rgba(148, 148, 148, 0.05);
-  color: #949494;
+  background: rgba(147.5, 147.5, 147.5, 0.05);
+  color: rgb(147.5, 147.5, 147.5);
 }
 
 /*# sourceMappingURL=default.css.map */
