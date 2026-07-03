@@ -8,5 +8,5 @@ authors: Anthony Lins, Carmelo Bastos-Filho, Débora Nascimento, Marcos Oliveira
 where: "Theory and New Applications of Swarm Intelligence. 1ed.: InTech. 2012."
 doi_link: 'http://dx.doi.org/10.5772/30360'
 arxiv_link: ''
-paper_download: ''
+paper_download: 'files/2012_fish_school_search_gpu.pdf'
 ---

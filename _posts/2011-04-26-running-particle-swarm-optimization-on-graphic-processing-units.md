@@ -7,5 +7,5 @@ authors: Carmelo Bastos-Filho, Marcos Oliveira, and Débora Nascimento
 where: "Search Algorithms and Applications. 1ed.: InTech. 2011."
 doi_link: 'http://dx.doi.org/10.5772/14694'
 arxiv_link: ''
-paper_download: ''
+paper_download: 'files/2011_running_pso_gpu.pdf'
 ---
