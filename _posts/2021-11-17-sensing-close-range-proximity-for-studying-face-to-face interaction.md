@@ -8,5 +8,18 @@ where: "Handbook of Computational Social Science. Volume 1. Routledge, (2021)"
 doi_link: 'http://dx.doi.org/10.4324/9781003024583-17'
 arxiv_link: ''
 paper_download: 'files/2021_sensing_close_range_proximity.pdf'
+bibtex: |
+  @inbook{schaible2021sensing,
+    title={Sensing close-range proximity for studying face-to-face interaction},
+    ISBN={9781003024583},
+    url={http://dx.doi.org/10.4324/9781003024583-17},
+    DOI={10.4324/9781003024583-17},
+    booktitle={Handbook of Computational Social Science, Volume 1},
+    publisher={Routledge},
+    author={Schaible, Johann and Oliveira, Marcos and Zens, Maria and Génois, Mathieu},
+    year={2021},
+    month=Nov,
+    pages={219–239}
+  }
 ---
 Face-to-face interaction is an archetype of interpersonal behavior and a building block for microsociology. Studying face-to-face interaction is hence important but, at the same time, quite challenging. Surveys present a self-reporting bias, and observational studies are dependent on human encoding. In today’s digitized world, there are many opportunities for digitally “sensing” human behavior, alleviating this situation. This also includes sensors for detecting interactions in situ – in a given (physical) space and environment – to focus on empirical evidence of face-to-face interactions between individuals. However, sensors measure a physical quantity, which is used to interpret a social construct, for example, measuring the proximity between individuals as a proxy for co-location or face-to-face interaction. This chapter illustrates the social construct of face-to-face interaction and aligns it to the physical constructs of space and angle based on proxemics. Different proximity sensors are explained in detail, including an outline of their advantages and shortcomings for measuring face-to-face interactions. Furthermore, an overview of existing research articles on this topic is given. Finally, the accompanying challenges with sensor technology are described to raise awareness of which aspects must be considered in detail when conducting a sensor-based study.

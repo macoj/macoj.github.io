@@ -9,5 +9,17 @@ where: "IEEE Latin American Conference on Computational Intelligence (LA-CCI), R
 doi_link: 'https://doi.org/10.1109/LA-CCI58595.2023.10409397'
 arxiv_link: ''
 paper_download: 'files/2023_regularizing_neural_networks_brain_tumor.pdf'
+bibtex: |
+  @inproceedings{filho2023regularizing,
+    title={Regularizing Neural Networks with Noise Injection for Classification of Brain Tumor in Magnetic Resonance Imaging},
+    url={http://dx.doi.org/10.1109/LA-CCI58595.2023.10409397},
+    DOI={10.1109/la-cci58595.2023.10409397},
+    booktitle={2023 IEEE Latin American Conference on Computational Intelligence (LA-CCI)},
+    publisher={IEEE},
+    author={Filho, Umberto Tenório de Barros and Rocha, Paulo and Oliveira, Marcos and Ribeiro, Andrea Maria Nogueira Cavalcanti and de Paula Monteiro, Rodrigo and Pinheiro, Diego},
+    year={2023},
+    month=Oct,
+    pages={1–6}
+  }
 ---
 Overfitting jeopardizes deep learners dealing with noisy medical data. Despite its importance, our understanding of how neural networks generalize in medical imaging remains elusive. In this work, we propose to characterize the generalization profile of a model by evaluating its F1-score under data with varying noise levels. We use two architecturally distinct neural models, a Multilayer Perceptron (MLP) and a Convolutional Neural Network (CNN), to classify brain tumor in Magnetic Resonance Images (MRI) in a independent test data with different levels of salt-and-pepper noise. Our results reveal a clear distinction between the generalization profile of MLPs and CNNs. We demonstrate that shallow models can perform comparably to deep models when regularization is neglected. We also show that deep neural models benefit more from noise injection than shallow neural models, regardless of the differences between training and test data distribution. Our study sheds light on the nature of generalization in neural networks, laying the groundwork for further investigations of their underlying learning processes.

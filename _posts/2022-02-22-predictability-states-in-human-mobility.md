@@ -8,5 +8,19 @@ type: journal
 where: "Royal Society Open Science 11, 9 (2024). "
 doi_link: 'https://royalsocietypublishing.org/doi/abs/10.1098/rsos.240115'
 paper_download: 'files/2022_dynamic_predictability_human_mobility.pdf'
+bibtex: |
+  @article{poudyal2024dynamic,
+    title={Dynamic predictability and activity-location contexts in human mobility},
+    volume={11},
+    ISSN={2054-5703},
+    url={http://dx.doi.org/10.1098/rsos.240115},
+    DOI={10.1098/rsos.240115},
+    number={9},
+    journal={Royal Society Open Science},
+    publisher={The Royal Society},
+    author={Poudyal, Bibandhan and Pacheco, Diogo and Oliveira, Marcos and Chen, Zexun and Barbosa, Hugo S. and Menezes, Ronaldo and Ghoshal, Gourab},
+    year={2024},
+    month=Sept
+  }
 ---
 Human travelling behaviours are markedly regular, to a large extent predictable, and mostly driven by biological necessities and social constructs. Not surprisingly, such predictability is influenced by an array of factors ranging in scale from individual preferences and choices, through social groups and households, all the way to the global scale, such as mobility restrictions in response to external shocks such as pandemics. In this work, we explore how temporal, activity and location variations in individual-level mobility—referred to as predictability states—carry a large degree of information regarding the nature of mobility regularities at the population level. Our findings indicate the existence of contextual and activity signatures in predictability states, suggesting the potential for a more nuanced approach to estimating both short-term and higher-order mobility predictions. The existence of location contexts, in particular, serves as a parsimonious estimator for predictability patterns even in the case of low resolution and missing data.

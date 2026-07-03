@@ -25,6 +25,16 @@ layout: default
 
 
       {% if page.doi_link != "" %}<br><a href="{{ page.doi_link }}" class="post_link">[Link to publication]</a>{% endif %}
+
+      {% if page.bibtex %}
+      <section class="citation">
+        <h2>Cite this paper</h2>
+        {% capture bibtex_code %}```bibtex
+{{ page.bibtex | strip }}
+```{% endcapture %}
+        {{ bibtex_code | markdownify }}
+      </section>
+      {% endif %}
       <br><br><br><br>
 
     </div>

@@ -8,5 +8,19 @@ where:  "Social Network Analysis and Mining 5:3 (2015)"
 doi_link: 'http://dx.doi.org/10.1007/s13278-015-0245-5'
 arxiv_link: ''
 paper_download: 'files/2015_OBM_SNAM_SWARM_ANALYSIS.pdf'
+bibtex: |
+  @article{oliveira2015network,
+    title={Using network science to assess particle swarm optimizers},
+    volume={5},
+    ISSN={1869-5469},
+    url={http://dx.doi.org/10.1007/s13278-015-0245-5},
+    DOI={10.1007/s13278-015-0245-5},
+    number={1},
+    journal={Social Network Analysis and Mining},
+    publisher={Springer Science and Business Media LLC},
+    author={Oliveira, Marcos and Bastos-Filho, Carmelo J. A. and Menezes, Ronaldo},
+    year={2015},
+    month=Jan
+  }
 ---
 Particle swarm optimizers (PSO) have been extensively used in optimization problems, but the scientific community still lacks proper mechanisms to analyze the swarm behavior during the optimization (execution) process. In this paper, we propose to assess the swarm information flow based on particle interactions. We introduce the concept of the swarm influence graph to capture the information exchange between the particles in a given iteration during the execution of the algorithm. We propose that analysis of this graph to find its number of components and its overall structure may be used to define a fingerprint for the swarm search behavior. We simulated the PSO algorithm with three different communication topologies and we showed that each topology leads to different communication signatures. Also, we showed that, in the case of a dynamic topology, this signature is related to the stagnation of the swarm.

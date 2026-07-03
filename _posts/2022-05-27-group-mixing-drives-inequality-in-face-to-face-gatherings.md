@@ -9,5 +9,19 @@ where: "Communications Physics 5, 127 (2022). "
 doi_link: 'https://www.nature.com/articles/s42005-022-00896-1'
 arxiv_link: 'http://arxiv.org/abs/2106.11688'
 paper_download: 'files/2022_group_mixing_inequality.pdf'
+bibtex: |
+  @article{oliveira2022group,
+    title={Group mixing drives inequality in face-to-face gatherings},
+    volume={5},
+    ISSN={2399-3650},
+    url={http://dx.doi.org/10.1038/s42005-022-00896-1},
+    DOI={10.1038/s42005-022-00896-1},
+    number={1},
+    journal={Communications Physics},
+    publisher={Springer Science and Business Media LLC},
+    author={Oliveira, Marcos and Karimi, Fariba and Zens, Maria and Schaible, Johann and Génois, Mathieu and Strohmaier, Markus},
+    year={2022},
+    month=May
+  }
 ---
 Uncovering how inequality emerges from human interaction is imperative for just societies. Here we show that the way social groups interact in face-to-face situations can enable the emergence of degree inequality. We present a mechanism that integrates group mixing dynamics with individual preferences, which reproduces group degree inequality found in six empirical data sets of face-to-face interactions. We uncover the impact of group-size imbalance on degree inequality, revealing a critical minority group size that changes social gatherings qualitatively. If the minority group is larger than this 'critical mass' size, it can be a well-connected, cohesive group; if it is smaller, minority cohesion widens degree inequality. Finally, we expose the under-representation of social groups in degree rankings due to mixing dynamics and propose a way to reduce such biases.
