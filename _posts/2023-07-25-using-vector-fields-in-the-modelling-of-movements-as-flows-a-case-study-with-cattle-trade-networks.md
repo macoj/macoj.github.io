@@ -10,7 +10,7 @@ doi_link: 'https://link.springer.com/chapter/10.1007/978-3-031-28276-8_14'
 arxiv_link: ''
 paper_download: 'files/2023_using_vector_fields_cattle_trade.pdf'
 bibtex: |
-  @inbook{farokhnejad2023vector,
+  @incollection{farokhnejad2023vector,
     title={Using Vector Fields in the Modelling of Movements as Flows: A Case Study with Cattle Trade Networks},
     ISBN={9783031282768},
     ISSN={2213-8692},

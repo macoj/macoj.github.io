@@ -9,7 +9,7 @@ doi_link: 'http://dx.doi.org/10.1007/978-3-319-44427-7_7'
 arxiv_link: ''
 paper_download: 'files/2016_OPBM_ANTS_Communication_Diversity.pdf'
 bibtex: |
-  @inbook{oliveira2016communication,
+  @incollection{oliveira2016communication,
     title={Communication Diversity in Particle Swarm Optimizers},
     ISBN={9783319444277},
     ISSN={1611-3349},

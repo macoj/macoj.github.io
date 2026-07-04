@@ -13,7 +13,7 @@ bibtex: |
     title={Tippers and stiffers: An analysis of tipping behavior in taxi trips},
     url={http://dx.doi.org/10.1109/UIC-ATC.2017.8397523},
     DOI={10.1109/uic-atc.2017.8397523},
-    booktitle={2017 IEEE SmartWorld, Ubiquitous Intelligence &amp; Computing, Advanced &amp; Trusted Computed, Scalable Computing &amp; Communications, Cloud &amp; Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)},
+    booktitle={2017 IEEE SmartWorld, Ubiquitous Intelligence \& Computing, Advanced \& Trusted Computed, Scalable Computing \& Communications, Cloud \& Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)},
     publisher={IEEE},
     author={Elliott, David and Tomasini, Marcello and Oliveira, Marcos and Menezes, Ronaldo},
     year={2017},

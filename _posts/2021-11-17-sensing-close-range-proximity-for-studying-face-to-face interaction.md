@@ -9,7 +9,7 @@ doi_link: 'http://dx.doi.org/10.4324/9781003024583-17'
 arxiv_link: ''
 paper_download: 'files/2021_sensing_close_range_proximity.pdf'
 bibtex: |
-  @inbook{schaible2021sensing,
+  @incollection{schaible2021sensing,
     title={Sensing close-range proximity for studying face-to-face interaction},
     ISBN={9781003024583},
     url={http://dx.doi.org/10.4324/9781003024583-17},

@@ -9,7 +9,7 @@ doi_link: 'https://link.springer.com/chapter/10.1007/978-3-031-28276-8_12'
 arxiv_link: ''
 paper_download: 'files/2023_getting_boot_football.pdf'
 bibtex: |
-  @inbook{attie2023getting,
+  @incollection{attie2023getting,
     title={Getting the Boot? Predicting the Dismissal of Managers in Football},
     ISBN={9783031282768},
     ISSN={2213-8692},

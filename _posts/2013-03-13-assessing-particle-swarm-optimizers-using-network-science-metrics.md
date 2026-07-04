@@ -9,7 +9,7 @@ doi_link: 'http://dx.doi.org/10.1007/978-3-642-36844-8_17'
 arxiv_link: ''
 paper_download: '/files/2013-Oliveira_Bastos-Filho_Menezes.pdf'
 bibtex: |
-  @inbook{oliveirajunior2013assessing,
+  @incollection{oliveira2013assessing,
     title={Assessing Particle Swarm Optimizers Using Network Science Metrics},
     ISBN={9783642368448},
     ISSN={1860-9503},
@@ -17,7 +17,7 @@ bibtex: |
     DOI={10.1007/978-3-642-36844-8_17},
     booktitle={Complex Networks IV},
     publisher={Springer Berlin Heidelberg},
-    author={Oliveira-Júnior, Marcos A. C. and Bastos-Filho, Carmelo J. A. and Menezes, Ronaldo},
+    author={Oliveira, Marcos A. C. and Bastos-Filho, Carmelo J. A. and Menezes, Ronaldo},
     year={2013},
     pages={173–184}
   }

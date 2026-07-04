@@ -9,7 +9,7 @@ doi_link: 'http://dx.doi.org/10.1007/978-3-319-16112-9_22'
 arxiv_link: ''
 paper_download: 'files/2015_OSYWM_Complenet_Crime_Networks.pdf'
 bibtex: |
-  @inbook{oliveira2015criminal,
+  @incollection{oliveira2015criminal,
     title={From Criminal Spheres of Familiarity to Crime Networks},
     ISBN={9783319161129},
     ISSN={1860-9503},

@@ -10,7 +10,7 @@ doi_link: 'http://dx.doi.org/10.1007/978-3-642-30287-9_5'
 arxiv_link: ''
 paper_download: 'files/2012-Oliveira_Bastos-Filho_Menezes.pdf'
 bibtex: |
-  @inbook{junior2013network,
+  @incollection{oliveira2013network,
     title={Using Network Science to Define a Dynamic Communication Topology for Particle Swarm Optimizers},
     ISBN={9783642302879},
     ISSN={1860-9503},
@@ -18,7 +18,7 @@ bibtex: |
     DOI={10.1007/978-3-642-30287-9_5},
     booktitle={Complex Networks},
     publisher={Springer Berlin Heidelberg},
-    author={Junior, Marcos A. C. Oliveira and Bastos Filho, Carmelo J. A. and Menezes, Ronaldo},
+    author={Oliveira, Marcos A. C. and Bastos Filho, Carmelo J. A. and Menezes, Ronaldo},
     year={2013},
     pages={39–47}
   }

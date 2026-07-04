@@ -9,14 +9,14 @@ doi_link: 'http://dx.doi.org/10.21528/CBIC2011-26.3'
 arxiv_link: ''
 paper_download: 'files/2011-Oliveira_Lacerda_Barboza_Cordeiro_Bastos-Filho.pdf'
 bibtex: |
-  @inproceedings{oliveirajunior2011car,
+  @inproceedings{oliveira2011car,
     series={CBIC},
     title={Car Setup Optimization Using Multi-Objective Swarm Algorithms},
     url={http://dx.doi.org/10.21528/CBIC2011-26.3},
     DOI={10.21528/cbic2011-26.3},
     booktitle={Anais do 10. Congresso Brasileiro de Inteligência Computacional},
     publisher={SBIC},
-    author={Oliveira Junior, M. C. and Lacerda, M. G. P. and Barboza, E. A. and Cordeiro, P. R. G. and Bastos-Filho, C. J. A.},
+    author={Oliveira, M. C. and Lacerda, M. G. P. and Barboza, E. A. and Cordeiro, P. R. G. and Bastos-Filho, C. J. A.},
     year={2011},
     month=Nov,
     pages={1–8},

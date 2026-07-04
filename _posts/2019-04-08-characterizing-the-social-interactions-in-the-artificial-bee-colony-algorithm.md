@@ -17,7 +17,7 @@ bibtex: |
     publisher={IEEE},
     author={Taw, Lydia and Gurrapadi, Nishant and Macedo, Mariana and Oliveira, Marcos and Pinheiro, Diego and Bastos-Filho, Carmelo and Menezes, Ronaldo},
     year={2019},
-    month=June,
+    month=Jun,
     pages={1243–1250}
   }
 ---

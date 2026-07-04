@@ -9,7 +9,7 @@ doi_link: 'http://dx.doi.org/10.1007/978-3-319-15168-7_14'
 arxiv_link: ''
 paper_download: 'files/2014_WYSOM_CRIMENET_Borders_of_Crime.pdf'
 bibtex: |
-  @inbook{white2015spatial,
+  @incollection{white2015spatial,
     title={The Spatial Structure of Crime in Urban Environments},
     ISBN={9783319151687},
     ISSN={1611-3349},

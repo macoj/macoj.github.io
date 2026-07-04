@@ -20,7 +20,7 @@ bibtex: |
     publisher={The Royal Society},
     author={Poudyal, Bibandhan and Pacheco, Diogo and Oliveira, Marcos and Chen, Zexun and Barbosa, Hugo S. and Menezes, Ronaldo and Ghoshal, Gourab},
     year={2024},
-    month=Sept
+    month=Sep
   }
 ---
 Human travelling behaviours are markedly regular, to a large extent predictable, and mostly driven by biological necessities and social constructs. Not surprisingly, such predictability is influenced by an array of factors ranging in scale from individual preferences and choices, through social groups and households, all the way to the global scale, such as mobility restrictions in response to external shocks such as pandemics. In this work, we explore how temporal, activity and location variations in individual-level mobility—referred to as predictability states—carry a large degree of information regarding the nature of mobility regularities at the population level. Our findings indicate the existence of contextual and activity signatures in predictability states, suggesting the potential for a more nuanced approach to estimating both short-term and higher-order mobility predictions. The existence of location contexts, in particular, serves as a parsimonious estimator for predictability patterns even in the case of low resolution and missing data.

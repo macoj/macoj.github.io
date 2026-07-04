@@ -10,14 +10,14 @@ doi_link: 'http://dx.doi.org/10.21528/CBIC2011-14.3'
 arxiv_link: ''
 paper_download: 'files/2011-Oliveira_Bastos-Filho.pdf'
 bibtex: |
-  @inproceedings{oliveirajunior2011uma,
+  @inproceedings{oliveira2011uma,
     series={CBIC},
     title={Uma Implementação em FPGA de Redes Neurais de Hopfield para Roteamento em Redes de Comunicação},
     url={http://dx.doi.org/10.21528/CBIC2011-14.3},
     DOI={10.21528/cbic2011-14.3},
     booktitle={Anais do 10. Congresso Brasileiro de Inteligência Computacional},
     publisher={SBIC},
-    author={Oliveira Júnior, M. C. and Bastos-Filho, C. J. A.},
+    author={Oliveira, M. C. and Bastos-Filho, C. J. A.},
     year={2011},
     month=Nov,
     pages={1–8},
